@@ -6,6 +6,10 @@ name: Python application
 on:
   push:
     branches: [ master ]
+  issues:
+    types: [ opened ]
+  schedule:
+  - cron: "0 * * * *"
 
 jobs:
   build:
