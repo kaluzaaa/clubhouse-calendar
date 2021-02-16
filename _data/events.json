@@ -1,5 +1,35 @@
 [
   {
+    "title": "🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje",
+    "url": "https://www.joinclubhouse.com/event/MR33pNW6",
+    "date": "2021-02-17T20:00:00+01:00",
+    "speakers": [
+      "Michał Łusiak",
+      "Michał Śliwoń",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/2074979188_45ba1d82-2d28-45a2-b363-f119e335dd1e_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Porozmawiamy o tym jak pisać abstrakty na konferencje programistyczne. Michał Ł z perspektywy prezentera, a Michał Ś z perspektywy organizatora."
+  },
+  {
+    "title": "🇵🇱 Dev Radio PL: Przyszłość frontendu-PWA",
+    "url": "https://www.joinclubhouse.com/event/MOBnD4Zy",
+    "date": "2021-02-16T19:00:00+01:00",
+    "speakers": [
+      "Aleksander Patschek",
+      "Artur Chmaro"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3692470_80c20e17-6e08-48ba-b1b5-1262bdfba6c3_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3857117_66dcc942-e29a-46dd-b209-250510ae1d10_thumbnail_250x250"
+    ],
+    "description": "Frontend zawitał na Dev Radio PL. Porozmawiamy sobie o przyszłości frontendu w kontekście PWA (progressive web apps)"
+  },
+  {
     "title": "🇵🇱 Dev Radio PL - czy Java umiera? Java a inne języki ",
     "url": "https://www.joinclubhouse.com/event/dxndgO3m",
     "date": "2021-02-17T14:00:00+01:00",
