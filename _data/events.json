@@ -1,5 +1,17 @@
 [
   {
+    "title": "🇵🇱 Dev Radio PL - czy Java umiera? Java a inne języki ",
+    "url": "https://www.joinclubhouse.com/event/dxndgO3m",
+    "date": "2021-02-17T14:00:00+01:00",
+    "speakers": [
+      "Dariusz Mydlarz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3697462_45f1e6f1-dab7-4f69-92a2-14c60a07aa66_thumbnail_250x250"
+    ],
+    "description": "Czy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)"
+  },
+  {
     "title": "🇵🇱Dev Radio PL: Mentoring w IT? Czy warto? Kim jest mentor?",
     "url": "https://www.joinclubhouse.com/event/MzjVEkQ3",
     "date": "2021-02-22T20:00:00+01:00",
