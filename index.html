@@ -23,6 +23,9 @@
             <li>
                 <a href="https://github.com/kaluzaaa/clubhouse-calendar/issues/new?assignees=&labels=&template=dodanie-spotkania.md&title=">Dodaj wpis</a>
             </li>
+            <li>
+                <a href="/feed.xml">RSS</a>
+            </li>
         </ul>
     </nav>
     <header>
@@ -32,7 +35,7 @@
         <h2>Nadchodzące pokoje</h2>
         {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
         {% assign events_in_future=false %}
-        {% assign events = site.data.events | sort: 'date' | here_exp: 'date', 'date < site.time' | reverse %}
+        {% assign events = site.data.events | sort: 'date' %}
         {% for event in events %}
         {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
             {% if date > now %}
@@ -63,7 +66,7 @@
     <section>
         <h2>Pokoje, które się odbyły</h2>
         {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-        {% assign events = site.data.events | sort: 'date' | here_exp: 'date', 'date < site.time' | reverse %}
+        {% assign events = site.data.events | sort: 'date' | reverse %}
         {% for event in events %}
         {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
             {% if date < now %}
