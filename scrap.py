@@ -78,6 +78,9 @@ for url in urls:
 with open('_data/events.json', 'w') as outfile:
     json.dump(events, outfile, ensure_ascii=False, indent=2)
 
+print(os.getenv('AT_BASE_ID')[0:4])
+print(os.getenv('AT_API_KEY')[0:4])
+
 airtable = Airtable(os.getenv('AT_BASE_ID'), 'Auditions', os.getenv('AT_API_KEY'))
 
 for event in events:
