@@ -12,7 +12,19 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,900&display=swap" rel="stylesheet">
-    <link rel="alternate" type="application/rss+xml" title="Kalendarz spotkań 🇵🇱Dev Radio PL i 🇵🇱 IT Tech Talk na 👋Clubhouse" href="https://dev-radio.pl/feed.xml" />
+    <link rel="alternate" type="application/rss+xml"
+        title="Kalendarz spotkań 🇵🇱Dev Radio PL i 🇵🇱 IT Tech Talk na 👋Clubhouse"
+        href="https://dev-radio.pl/feed.xml" />
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TSZM87S');</script>
+    <!-- End Google Tag Manager -->
 </head>
 
 <body>
@@ -22,7 +34,9 @@
                 <a href="https://github.com/kaluzaaa/clubhouse-calendar">Github</a>
             </li>
             <li>
-                <a href="https://github.com/kaluzaaa/clubhouse-calendar/issues/new?assignees=&labels=&template=dodanie-spotkania.md&title=">Dodaj wpis</a>
+                <a
+                    href="https://github.com/kaluzaaa/clubhouse-calendar/issues/new?assignees=&labels=&template=dodanie-spotkania.md&title=">Dodaj
+                    wpis</a>
             </li>
             <li>
                 <a href="/feed.xml">RSS</a>
@@ -39,26 +53,26 @@
         {% assign events = site.data.events | sort: 'date' %}
         {% for event in events %}
         {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
-            {% if date > now %}
-            {% assign events_in_future=true %}
-            <article>
-                <time datetime="{{ event.date }}">{{ event.date | date: "%F %X" }}</time>
-                <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
-                <div class="avatars"></div>
-                {% for avatar in event.avatars %}
-                <span class="avatar">
-                    <img src="{{ avatar }}">
-                </span>
+        {% if date > now %}
+        {% assign events_in_future=true %}
+        <article>
+            <time datetime="{{ event.date }}">{{ event.date | date: "%F %X" }}</time>
+            <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+            <div class="avatars"></div>
+            {% for avatar in event.avatars %}
+            <span class="avatar">
+                <img src="{{ avatar }}">
+            </span>
+            {% endfor %}
+            </div>
+            <div class="speakers">
+                {% for speaker in event.speakers %}
+                {{ speaker }}{% if forloop.last %}{% else %},{% endif %}
                 {% endfor %}
-                </div>
-                <div class="speakers">
-                    {% for speaker in event.speakers %}
-                    {{ speaker }}{% if forloop.last %}{% else %},{% endif %}
-                    {% endfor %}
-                </div>
-                <p>{{ event.description }}</p>
-            </article>
-            {% endif %}
+            </div>
+            <p>{{ event.description }}</p>
+        </article>
+        {% endif %}
         {% endfor %}
         {% if events_in_future == false %}
         <h3>Na razie nie ma zaplanowanych😭 Może coś stworzysz?😎</h3>
@@ -70,27 +84,30 @@
         {% assign events = site.data.events | sort: 'date' | reverse %}
         {% for event in events %}
         {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
-            {% if date < now %}
-            <article>
-                <time datetime="{{ event.date }}">{{ event.date | date: "%F %X" }}</time>
-                <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
-                <div class="avatars"></div>
-                {% for avatar in event.avatars %}
-                <span class="avatar">
-                    <img src="{{ avatar }}">
-                </span>
+        {% if date < now %} <article>
+            <time datetime="{{ event.date }}">{{ event.date | date: "%F %X" }}</time>
+            <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+            <div class="avatars"></div>
+            {% for avatar in event.avatars %}
+            <span class="avatar">
+                <img src="{{ avatar }}">
+            </span>
+            {% endfor %}
+            </div>
+            <div class="speakers">
+                {% for speaker in event.speakers %}
+                {{ speaker }}{% if forloop.last %}{% else %},{% endif %}
                 {% endfor %}
-                </div>
-                <div class="speakers">
-                    {% for speaker in event.speakers %}
-                    {{ speaker }}{% if forloop.last %}{% else %},{% endif %}
-                    {% endfor %}
-                </div>
-                <p>{{ event.description }}</p>
+            </div>
+            <p>{{ event.description }}</p>
             </article>
             {% endif %}
-        {% endfor %}
+            {% endfor %}
     </section>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSZM87S" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 </body>
 
 </html>
