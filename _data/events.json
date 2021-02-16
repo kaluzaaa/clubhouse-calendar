@@ -1,5 +1,23 @@
 [
   {
+    "title": "🇵🇱Dev Radio PL: Nauka React w 2021",
+    "url": "https://www.joinclubhouse.com/event/Md8eQVWo",
+    "date": "2021-02-24T20:30:00+01:00",
+    "speakers": [
+      "Michał Jawulski",
+      "Aleksander Patschek",
+      "Artur Chmaro",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/5799868_1c58c9e2-e5f2-4d18-a78c-471fcd43d5c0_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3692470_80c20e17-6e08-48ba-b1b5-1262bdfba6c3_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3857117_66dcc942-e29a-46dd-b209-250510ae1d10_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "React jest coraz bardziej popularny. Jak wyglada nauka reacta w 2021? Jakie biblioteki warto znać, a które można odpuścić? Czy muszę znać Reduxa? Co dodać do IDE? Gdzie szukać materiałów do nauki?"
+  },
+  {
     "title": "🇵🇱 Dev Radio PL - Blockchain 101",
     "url": "https://www.joinclubhouse.com/event/myGeL3ax",
     "date": "2021-02-19T16:00:00+01:00",
