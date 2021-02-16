@@ -2,3 +2,4 @@ beautifulsoup4
 PyGithub
 requests
 python-dateutil
+validators
