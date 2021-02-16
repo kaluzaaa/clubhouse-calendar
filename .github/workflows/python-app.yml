@@ -28,6 +28,9 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run scraping
+      env:
+        AT_BASE_ID: ${{ secrets.AT_BASE_ID }}
+        AT_API_KEY: ${{ secrets.AT_API_KEY }}
       run: |
         python3 scrap.py
         
