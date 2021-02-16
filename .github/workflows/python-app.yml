@@ -26,5 +26,11 @@ jobs:
     - name: Run scraping
       run: |
         python3 scrap.py
-        ls -la
-        cat _data/events.json
+        
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: 'Łukasz Kałużny'
+        author_email: lukasz@kaluzny.pro
+        message: 'New scraping'
+        add: '*.json'
