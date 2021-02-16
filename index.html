@@ -61,7 +61,7 @@
             <div class="avatars"></div>
             {% for avatar in event.avatars %}
             <span class="avatar">
-                <img src="{{ avatar }}">
+                <img src="{{ avatar }}" alt="{{ event.speakers[forloop.index] }}">
             </span>
             {% endfor %}
             </div>
