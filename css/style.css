@@ -65,14 +65,19 @@ li {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 5px;
     text-decoration: none;
     font-weight: 600;
     font-size: .875rem;
     color: rgba(39,174,96);
 }
 
-li>a {
+li>a:link, li>a:visited, li>a:hover, li>a:active {
     color: rgba(39,174,96);
     text-decoration: none;
+}
+
+li>a:hover {
+    color: #000;
+    text-decoration: underline;
 }
