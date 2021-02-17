@@ -1,5 +1,17 @@
 [
   {
+    "title": "🇵🇱 Dev Radio PL: Agile dla programistów czy managerów? :)",
+    "url": "https://www.joinclubhouse.com/event/MzEa18Zw",
+    "date": "2021-02-23T20:00:00+01:00",
+    "speakers": [
+      "Grzegorz Jarosz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250"
+    ],
+    "description": "Luźna rozmowa: nasze (dobre i złe) doświadczenia z “Agile”; po co wdrażać np. Scruma i komu ma on służyć; patologie, sukcesy, alternatywy."
+  },
+  {
     "title": "🇵🇱Dev Radio PL: Nauka React w 2021",
     "url": "https://www.joinclubhouse.com/event/Md8eQVWo",
     "date": "2021-02-24T20:30:00+01:00",
