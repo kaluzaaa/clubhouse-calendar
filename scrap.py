@@ -94,7 +94,7 @@ for event in events:
 
 # close old issue
 
-now = datetime.now(pytz.utc
+now = datetime.now(pytz.utc)
 for issue in open_issues:
     if validators.url(issue.title):
         for event in events:
