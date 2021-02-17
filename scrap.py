@@ -99,5 +99,5 @@ for issue in open_issues:
     if validators.url(issue.title):
         for event in events:
             if event['url'] == issue.title:
-                if parser.parse(event['date']) + timedelta(hours=4) < now):
+                if parser.parse(event['date']) + timedelta(hours=4) < now:
                     issue.edit(state='closed')
