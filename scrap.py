@@ -83,4 +83,7 @@ airtable = Airtable(os.getenv('AT_BASE_ID'), 'Auditions', os.getenv('AT_API_KEY'
 for event in events:
     update = airtable.update_by_field('URL', event['url'], {'Hosts': ', '.join(event['speakers']), 'Description' : event['description'], 'Audition Name' : event['title']})
     if not update:
-        airtable.insert({'URL' : event['url'], 'Hosts': ', '.join(event['speakers']), 'Description' : event['description'], 'Audition Name' : event['title']})
+        insert = airtable.insert({'URL' : event['url'], 'Hosts': ', '.join(event['speakers']), 'Description' : event['description'], 'Audition Name' : event['title']})
+        print('Insert: ',insert)
+    else:
+        print('Update: ', update)
