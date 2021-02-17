@@ -51,7 +51,7 @@ jobs:
         message: 'New scraping'
         add: '*.json'
 
-    - uses: helaili/jekyll-action@v2
+    - uses: helaili/jekyll-action@2.1.0
       env:
         token: ${{ secrets.GITHUB_TOKEN }}
       with:
