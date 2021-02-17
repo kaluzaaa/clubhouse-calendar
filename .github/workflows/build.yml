@@ -52,6 +52,8 @@ jobs:
         add: '*.json'
 
     - uses: helaili/jekyll-action@2.1.0
+      env:
+        JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         target_branch: 'gh-pages'
         token: ${{ secrets.GITHUB_TOKEN }}
