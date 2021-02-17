@@ -178,6 +178,18 @@
     "description": "pogadamy sobie o tym jak biznes przekłada się na kodzik, konteksty z DDD, read modele oraz procesy. dla chętnych - szybka terapia Twojego projektu jakie moduły wprowadzić"
   },
   {
+    "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)",
+    "url": "https://www.joinclubhouse.com/event/MzAajrwB",
+    "date": "2021-02-25T20:00:00+01:00",
+    "speakers": [
+      "Daniel Dec"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250"
+    ],
+    "description": "Wiele rzeczy w naszych projektach da się często robić „lepiej”. Pierwszy krok do zmiany to świadomość „strat”. Przyjrzyjmy się więc stratom naszych technicznych projektów IT w ujęciu Lean (mudas)"
+  },
+  {
     "title": "🇵🇱Dev Radio PL - dzisiaj o testach",
     "url": "https://www.joinclubhouse.com/event/MdAV8wJl",
     "date": "2021-02-05T16:00:00+01:00",
