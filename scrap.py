@@ -7,6 +7,8 @@ import os
 import validators
 from dateutil import parser
 from dateutil import tz
+from datetime import datetime, timedelta
+import pytz
 from github import Github
 from airtable import Airtable
 
@@ -89,3 +91,13 @@ for event in events:
         print('Insert: ',insert)
     else:
         print('Update: ', update)
+
+# close old issue
+
+now = datetime.now(pytz.utc
+for issue in open_issues:
+    if validators.url(issue.title):
+        for event in events:
+            if event['url'] == issue.title:
+                if parser.parse(event['date']) + timedelta(hours=4) < now):
+                    issue.edit(state='closed')
