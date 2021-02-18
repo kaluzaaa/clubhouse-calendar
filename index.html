@@ -13,7 +13,7 @@
     <meta content="article" property="og:type">
     <meta content="Kalendarz spotkań 🇵🇱Dev Radio PL i 🇵🇱 IT Tech Talk na 👋Clubhouse" property="og:description">
     <meta content="https://dev-radio.pl/" property="og:url">
-    <meta content="https://dev-radio.pl/img/og-image.png"property="og:image">
+    <meta content="https://dev-radio.pl/img/og-image.png" property="og:image">
 
 
     <!-- Twitter card -->
@@ -123,6 +123,13 @@
             {% endif %}
             {% endfor %}
     </section>
+    <footer>
+        <p>Strona dostarczona dla was z 💘 przez
+            {% for contributor in site.github.contributors %}
+            <a href="{{ contributor.html_url }}">{{ contributor.login }}</a>{% if forloop.last %}{% else %},{% endif %}
+            {% endfor %}
+        </p>
+    </footer>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSZM87S" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
