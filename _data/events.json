@@ -154,6 +154,20 @@
     "description": "Low-code, no-code prototyping - jak walidować swoje pomysły mniejszym kosztem? Porozmawiamy o ciekawych narzędziach i podejściach, które skracaja czas walidacji pomysłów biznesowych."
   },
   {
+    "title": "🇵🇱DEV Radio PL: Cloud native, agnostic, multi-cloud",
+    "url": "https://www.joinclubhouse.com/event/xlOJvj84",
+    "date": "2021-02-24T16:00:00+01:00",
+    "speakers": [
+      "Piotr Tomaszewski",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3962772_afcaa6be-9673-4ce4-97d1-a09ee20c1d6b_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1953238_028cec29-3ce5-4767-9488-88d33b6d18ea_thumbnail_250x250"
+    ],
+    "description": "Zapraszamy na cykl audycji poświęconych architekturze oraz roli architekta. W pierwszym odcinku porozmawiamy o różnych stylach budowy systemów opartych o chmurę."
+  },
+  {
     "title": "🇵🇱Dev Radio PL - dzisiaj o testach",
     "url": "https://www.joinclubhouse.com/event/MdAV8wJl",
     "date": "2021-02-05T16:00:00+01:00",
