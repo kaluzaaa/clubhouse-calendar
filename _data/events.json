@@ -134,6 +134,26 @@
     "description": "Wiele rzeczy w naszych projektach da się często robić „lepiej”. Pierwszy krok do zmiany to świadomość „strat”. Przyjrzyjmy się więc stratom naszych technicznych projektów IT w ujęciu Lean (mudas)"
   },
   {
+    "title": "🇵🇱 Dev Radio PL: Jak szybko prototypować aplikacje?",
+    "url": "https://www.joinclubhouse.com/event/PN0qD10Z",
+    "date": "2021-02-25T18:00:00+01:00",
+    "speakers": [
+      "Arkadiusz Wasilonek",
+      "Andrzej Winecki",
+      "Mateusz Winek",
+      "Andrzej Krzywda",
+      "Marcin Cierpicki"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3474869_262ed5aa-3d7d-4fd0-b8c2-a93c1a490aac_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3531058_6984b6ea-85a0-457c-bf8a-c8368873b5b6_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1575391059_8a15efbc-7264-4e2c-9bb5-488049a9e5ed_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/495246852_330deee6-ccc2-4163-9a01-190031c8d96a_thumbnail_250x250"
+    ],
+    "description": "Low-code, no-code prototyping - jak walidować swoje pomysły mniejszym kosztem? Porozmawiamy o ciekawych narzędziach i podejściach, które skracaja czas walidacji pomysłów biznesowych."
+  },
+  {
     "title": "🇵🇱Dev Radio PL - dzisiaj o testach",
     "url": "https://www.joinclubhouse.com/event/MdAV8wJl",
     "date": "2021-02-05T16:00:00+01:00",
