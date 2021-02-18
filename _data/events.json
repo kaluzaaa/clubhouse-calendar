@@ -60,22 +60,6 @@
     "description": "Wielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. \n\nJeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!"
   },
   {
-    "title": "🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje",
-    "url": "https://www.joinclubhouse.com/event/MR33pNW6",
-    "date": "2021-02-17T20:00:00+01:00",
-    "speakers": [
-      "Michał Łusiak",
-      "Michał Śliwoń",
-      "Andrzej Krzywda"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/2074979188_45ba1d82-2d28-45a2-b363-f119e335dd1e_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
-    ],
-    "description": "Porozmawiamy o tym jak pisać abstrakty na konferencje programistyczne. Michał Ł z perspektywy prezentera, a Michał Ś z perspektywy organizatora."
-  },
-  {
     "title": "🇵🇱Dev Radio PL: Mentoring w IT- Czy warto? Kim jest mentor?",
     "url": "https://www.joinclubhouse.com/event/MzjVEkQ3",
     "date": "2021-02-22T20:00:00+01:00",
@@ -206,6 +190,22 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3697462_45f1e6f1-dab7-4f69-92a2-14c60a07aa66_thumbnail_250x250"
     ],
     "description": "Czy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)"
+  },
+  {
+    "title": "🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje",
+    "url": "https://www.joinclubhouse.com/event/MR33pNW6",
+    "date": "2021-02-17T20:00:00+01:00",
+    "speakers": [
+      "Michał Łusiak",
+      "Michał Śliwoń",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/2074979188_45ba1d82-2d28-45a2-b363-f119e335dd1e_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Porozmawiamy o tym jak pisać abstrakty na konferencje programistyczne. Michał Ł z perspektywy prezentera, a Michał Ś z perspektywy organizatora."
   },
   {
     "title": "🇵🇱 Dev Radio PL: Wydajność aplikacji",
