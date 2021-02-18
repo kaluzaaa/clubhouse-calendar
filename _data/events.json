@@ -170,6 +170,22 @@
     "description": "O testach brzmi trochę za szeroko, może zawęzimy tylko do tematu coverage, zobaczymy 😎"
   },
   {
+    "title": "🇵🇱 Dev-Radio.pl ☁️ Salesforce Developer - z czym to się je?",
+    "url": "https://www.joinclubhouse.com/event/xBlwnrQw",
+    "date": "2021-02-22T14:00:00+01:00",
+    "speakers": [
+      "Piotr Ogrodowicz",
+      "Michal Klobucki",
+      "Artur Kryczka"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3703865_649e1c0e-b820-4304-9f7f-d8097d6bd0a9_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1478858948_a1ec48a1-621a-49f6-b1e7-40e7feaf6e61_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/5340940_78e08450-e231-4aba-8299-f4916277b61a_thumbnail_250x250"
+    ],
+    "description": ""
+  },
+  {
     "title": "🇵🇱Dev Radio PL - Rekrutacja w branży IT",
     "url": "https://www.joinclubhouse.com/event/MwkDw8DB",
     "date": "2021-02-08T20:00:00+01:00",
