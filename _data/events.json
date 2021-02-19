@@ -238,6 +238,18 @@
     "description": "Czy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)"
   },
   {
+    "title": "🇵🇱 Dev Radio PL: Programisto, pokaż swój side-project!",
+    "url": "https://www.joinclubhouse.com/event/Prn8NDqG",
+    "date": "2021-02-22T15:00:00+01:00",
+    "speakers": [
+      "Szymon Paluch"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/167689439_ac50814e-54b8-4295-9a21-a8bde824935a_thumbnail_250x250"
+    ],
+    "description": "Wielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. Jeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!"
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje",
     "url": "https://www.joinclubhouse.com/event/MR33pNW6",
     "date": "2021-02-17T20:00:00+01:00",
