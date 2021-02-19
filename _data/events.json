@@ -32,20 +32,6 @@
     "description": "React jest coraz bardziej popularny. Jak wyglada nauka reacta w 2021? Jakie biblioteki warto znać, a które można odpuścić? Czy muszę znać Reduxa? Co dodać do IDE? Gdzie szukać materiałów do nauki?"
   },
   {
-    "title": "🇵🇱 Dev Radio PL - Blockchain 101",
-    "url": "https://www.joinclubhouse.com/event/myGeL3ax",
-    "date": "2021-02-19T16:00:00+01:00",
-    "speakers": [
-      "Adam Smolarek",
-      "Andrzej Krzywda"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
-    ],
-    "description": "Wszystko czego nie wiesz a boisz się zapytać White board: https://chaindev.pl/wb"
-  },
-  {
     "title": "🇵🇱Dev Radio PL: Mentoring w IT- Czy warto? Kim jest mentor?",
     "url": "https://www.joinclubhouse.com/event/MzjVEkQ3",
     "date": "2021-02-22T20:00:00+01:00",
@@ -180,6 +166,20 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250"
     ],
     "description": "O testach brzmi trochę za szeroko, może zawęzimy tylko do tematu coverage, zobaczymy 😎"
+  },
+  {
+    "title": "🇵🇱 Dev Radio PL - Blockchain 101",
+    "url": "https://www.joinclubhouse.com/event/myGeL3ax",
+    "date": "2021-02-19T16:00:00+01:00",
+    "speakers": [
+      "Adam Smolarek",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Wszystko czego nie wiesz a boisz się zapytać White board: https://chaindev.pl/wb"
   },
   {
     "title": "🇵🇱 Dev-Radio.pl ☁️ Salesforce Developer - z czym to się je?",
