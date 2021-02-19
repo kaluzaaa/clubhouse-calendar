@@ -154,6 +154,18 @@
     "description": "Zapraszamy na cykl audycji poświęconych architekturze oraz roli architekta. W pierwszym odcinku porozmawiamy o różnych stylach budowy systemów opartych o chmurę."
   },
   {
+    "title": "🇵🇱Dev Radio PL - Serverless od podstaw. Jak, gdzie, kiedy?",
+    "url": "https://www.joinclubhouse.com/event/M4kWKr1a",
+    "date": "2021-02-22T13:00:00+01:00",
+    "speakers": [
+      "Pawel Zubkiewicz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250"
+    ],
+    "description": "Spotkanie dla osób stawiających pierwsze kroki w chmurowym programowaniu (Cloud Native). Uzyskasz odpowiedzi na podstawowe pytania: kiedy, gdzie i dlaczego warto używać serverless? +odp. na Wasze pyt."
+  },
+  {
     "title": "🇵🇱Dev Radio PL - dzisiaj o testach",
     "url": "https://www.joinclubhouse.com/event/MdAV8wJl",
     "date": "2021-02-05T16:00:00+01:00",
