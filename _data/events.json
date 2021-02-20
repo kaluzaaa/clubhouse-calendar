@@ -50,6 +50,18 @@
     "description": "Czy potrzebujesz mentora? Czym jest Mentoring? Jakie są cechy dobrego mentora? Jaka powinna być osoba korzystająca z mentoringu? Jaką wartość wnosi mentor? Kiedy warto? Kiedy nie warto? Słyszymy się 🎙"
   },
   {
+    "title": "🇵🇱 DevRadio PL Blockchain 101",
+    "url": "https://www.joinclubhouse.com/event/PADZDnq6",
+    "date": "2021-02-26T16:00:00+01:00",
+    "speakers": [
+      "Adam Smolarek"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
+    "description": "Porównanie blockchain z technologiami których już używasz w swojej pracy jako dev"
+  },
+  {
     "title": "🇵🇱Dev Radio PL: moduły w projekcie == konteksty biznesowe ",
     "url": "https://www.joinclubhouse.com/event/xpeELErv",
     "date": "2021-02-08T16:00:00+01:00",
