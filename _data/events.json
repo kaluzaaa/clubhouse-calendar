@@ -1,5 +1,23 @@
 [
   {
+    "title": "🇵🇱 Dev Radio PL: ML-oddzielna profesja czy kolejny dev skil",
+    "url": "https://www.joinclubhouse.com/event/Mw2dB00g",
+    "date": "2021-02-24T18:00:00+01:00",
+    "speakers": [
+      "Michał Łusiak",
+      "Konrad Lyda",
+      "Andrzej Krzywda",
+      "Krzysztof Sopyła"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3884443_9917b5d1-2f2f-4da8-afc9-e806a859e90c_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/330581912_1a8920c1-1aa3-4ee0-aa0e-c826766a7895_thumbnail_250x250"
+    ],
+    "description": "Czy Machine Learning to zupełnie nowa profesja czy po prostu nowy zestaw umiejętności dla programistów?"
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Agile dla programistów czy managerów? :)",
     "url": "https://www.joinclubhouse.com/event/MzEa18Zw",
     "date": "2021-02-23T20:00:00+01:00",
