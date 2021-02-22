@@ -85,9 +85,9 @@ with open('_data/events.json', 'w') as outfile:
     json.dump(events, outfile, ensure_ascii=False, indent=2)
 
 for event in events:
-    update = airtable.update_by_field('URL', event['url'], {'Hosts': ', '.join(event['speakers']), 'Description' : event['description'], 'Audition Name' : event['title']})
+    update = airtable.update_by_field('URL', event['url'], {'Hosts': ', '.join(event['speakers']), 'Description' : event['description'], 'Audition Name' : event['title'], 'Time' : event['date']})
     if not update:
-        insert = airtable.insert({'URL' : event['url'], 'Hosts': ', '.join(event['speakers']), 'Description' : event['description'], 'Audition Name' : event['title']})
+        insert = airtable.insert({'URL' : event['url'], 'Hosts': ', '.join(event['speakers']), 'Description' : event['description'], 'Audition Name' : event['title'], 'Time' : event['date']})
         print('Insert: ',insert)
     else:
         print('Update: ', update)
