@@ -5,11 +5,13 @@
     "date": "2021-02-24T14:00:00+01:00",
     "speakers": [
       "Ola Kunysz",
-      "Andrzej Krzywda"
+      "Andrzej Krzywda",
+      "Michał Jawulski"
     ],
     "avatars": [
       "https://clubhouseprod.s3.amazonaws.com:443/4957738_53117856-4fe3-4aaa-b13c-4f09aaaac68e_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/5799868_1c58c9e2-e5f2-4d18-a78c-471fcd43d5c0_thumbnail_250x250"
     ],
     "description": "Czy pull requesty są dobrym sposobem na wymianę wiedzy w zespole, czy raczej zbędną biurokracją? A może #tozależy?"
   },
@@ -198,7 +200,7 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3531058_61a723ce-e417-452a-8707-e2f21aeaf3f4_thumbnail_250x250",
       "https://clubhouseprod.s3.amazonaws.com:443/1575391059_8a15efbc-7264-4e2c-9bb5-488049a9e5ed_thumbnail_250x250",
       "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/495246852_330deee6-ccc2-4163-9a01-190031c8d96a_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/495246852_64b95c4a-f22f-4a9a-b234-a4451462eeaa_thumbnail_250x250",
       "https://clubhouseprod.s3.amazonaws.com:443/5461853_ba503286-539c-4388-9b24-866b5085a0ef_thumbnail_250x250"
     ],
     "description": "Low-code, no-code prototyping - jak walidować swoje pomysły mniejszym kosztem? Porozmawiamy o ciekawych narzędziach i podejściach, które skracaja czas walidacji pomysłów biznesowych."
