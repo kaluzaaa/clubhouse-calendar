@@ -178,10 +178,12 @@
     "url": "https://www.joinclubhouse.com/event/MzAajrwB",
     "date": "2021-02-25T20:00:00+01:00",
     "speakers": [
-      "Daniel Dec"
+      "Daniel Dec",
+      "Grzegorz Jarosz"
     ],
     "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250"
+      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250"
     ],
     "description": "Wiele rzeczy w naszych projektach da się często robić „lepiej”. Pierwszy krok do zmiany to świadomość „strat”. Przyjrzyjmy się więc stratom naszych technicznych projektów IT w ujęciu Lean (mudas)"
   },
