@@ -1,21 +1,5 @@
 [
   {
-    "title": "🇵🇱 Dev-Radio.pl Pull Request - hit czy kit?",
-    "url": "https://www.joinclubhouse.com/event/MRn1GQG6",
-    "date": "2021-02-24T14:00:00+01:00",
-    "speakers": [
-      "Ola Kunysz",
-      "Andrzej Krzywda",
-      "Michał Jawulski"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/4957738_53117856-4fe3-4aaa-b13c-4f09aaaac68e_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/5799868_1c58c9e2-e5f2-4d18-a78c-471fcd43d5c0_thumbnail_250x250"
-    ],
-    "description": "Czy pull requesty są dobrym sposobem na wymianę wiedzy w zespole, czy raczej zbędną biurokracją? A może #tozależy?"
-  },
-  {
     "title": "🇵🇱 Dev Radio PL: ML-oddzielna profesja czy kolejny dev skil",
     "url": "https://www.joinclubhouse.com/event/Mw2dB00g",
     "date": "2021-02-24T18:00:00+01:00",
@@ -172,6 +156,22 @@
       "https://clubhouseprod.s3.amazonaws.com:443/412386302_94b83081-91eb-4c58-92da-20937d032c6b_thumbnail_250x250"
     ],
     "description": ""
+  },
+  {
+    "title": "🇵🇱 Dev-Radio.pl Pull Request - hit czy kit?",
+    "url": "https://www.joinclubhouse.com/event/MRn1GQG6",
+    "date": "2021-02-24T14:00:00+01:00",
+    "speakers": [
+      "Ola Kunysz",
+      "Andrzej Krzywda",
+      "Michał Jawulski"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4957738_53117856-4fe3-4aaa-b13c-4f09aaaac68e_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/5799868_1c58c9e2-e5f2-4d18-a78c-471fcd43d5c0_thumbnail_250x250"
+    ],
+    "description": "Czy pull requesty są dobrym sposobem na wymianę wiedzy w zespole, czy raczej zbędną biurokracją? A może #tozależy?"
   },
   {
     "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)",
