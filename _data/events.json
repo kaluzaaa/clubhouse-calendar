@@ -328,6 +328,20 @@
     "description": "Wielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. Jeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!"
   },
   {
+    "title": "🇵🇱 Dev Radio PL: Początki w IT - jakie masz wątpliwości?",
+    "url": "https://www.joinclubhouse.com/event/MwWkGAEk",
+    "date": "2021-03-02T12:00:00+01:00",
+    "speakers": [
+      "Robert Krzaczyński",
+      "Łukasz Reszke"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4017134_90948c67-1c8a-4e27-a252-8d80f2029ede_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3721699_ee150e68-9288-4886-a21d-0f0e56523b30_thumbnail_250x250"
+    ],
+    "description": "Porozmawiamy o tym, jak zacząć przygodę z IT, skąd czerpać wiedzę i jak radzić sobie z problemami/wątpliwościami, które pojawiają się na początku tej drogi."
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje",
     "url": "https://www.joinclubhouse.com/event/MR33pNW6",
     "date": "2021-02-17T20:00:00+01:00",
