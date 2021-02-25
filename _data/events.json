@@ -1,5 +1,21 @@
 [
   {
+    "title": "🇵🇱 Dev Radio PL : Event Storming, Narzędzia i Praktyki",
+    "url": "https://www.joinclubhouse.com/event/M6zEeAQn",
+    "date": "2021-02-26T20:00:00+01:00",
+    "speakers": [
+      "Andrzej Śliwa",
+      "Andrzej Krzywda",
+      "Paweł Pacana"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3690398_5e86b75c-74fa-4339-bde5-a1a936825a49_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4488016_f7b205c4-b59b-4212-a1a6-602bf01f7e6e_thumbnail_250x250"
+    ],
+    "description": ""
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Kiedy Junior staje się Midem?",
     "url": "https://www.joinclubhouse.com/event/m3NvloYl",
     "date": "2021-03-03T11:00:00+01:00",
