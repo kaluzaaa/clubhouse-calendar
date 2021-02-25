@@ -1,5 +1,19 @@
 [
   {
+    "title": "Dev Radio PL: Kiedy Junior staje się Midem?",
+    "url": "https://www.joinclubhouse.com/event/m3NvloYl",
+    "date": "2021-03-03T11:00:00+01:00",
+    "speakers": [
+      "Joanna Otmianowska",
+      "Ola Kunysz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/1877365462_2b395e67-0b7c-4c11-b477-57e73d707b79_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4957738_53117856-4fe3-4aaa-b13c-4f09aaaac68e_thumbnail_250x250"
+    ],
+    "description": "Kiedy Junior Developer przestaje nim być? Jakie są znaki, że już czas na wyższe stanowisko? Czy bardziej liczy się staż, doświadczenie czy mindset? A może jeszcze coś innego?"
+  },
+  {
     "title": "🇵🇱 DevRadio PL: Mikroserwisy, monolity czy.. mikromonolity?",
     "url": "https://www.joinclubhouse.com/event/m7zyKaV1",
     "date": "2021-02-26T14:00:00+01:00",
