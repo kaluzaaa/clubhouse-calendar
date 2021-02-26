@@ -326,6 +326,18 @@
     "description": "Będziemy tym razem rozmawiać o tych stresujących momentach szukania w pracy IT i może uda mi się wraz z Waszą pomocą rozwiać trochę mitów na temat rozmów kwalifikacyjnych do branży IT. Zapraszam 😏🤓💻"
   },
   {
+    "title": "🇵🇱 DevRadio PL: Blockchain 101",
+    "url": "https://www.joinclubhouse.com/event/m2jBJdnA",
+    "date": "2021-03-05T16:00:00+01:00",
+    "speakers": [
+      "Adam Smolarek"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
+    "description": "Porównanie blockchainów btc eth ada hlf, od strony technologicznej"
+  },
+  {
     "title": "🇵🇱 IT Tech Talk – Nudne (sprawdzone) technologie",
     "url": "https://joinclubhouse.com/event/M6zw0EbE",
     "date": "2021-02-10T16:30:00+01:00",
