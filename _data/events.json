@@ -14,22 +14,6 @@
     "description": "Kontynuacja tematu podjętego przy okazji dyskusji o Event Storming. W oparciu o różne platformy, języki i rozwiązania mniej lub bardziej kanoniczne ;)"
   },
   {
-    "title": "🇵🇱 Dev Radio PL : Event Storming, Narzędzia i Praktyki",
-    "url": "https://www.joinclubhouse.com/event/M6zEeAQn",
-    "date": "2021-02-26T20:00:00+01:00",
-    "speakers": [
-      "Andrzej Śliwa",
-      "Andrzej Krzywda",
-      "Paweł Pacana"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3690398_5fe1ae6e-d642-46e6-8f90-78de8e9d4851_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/4488016_f7b205c4-b59b-4212-a1a6-602bf01f7e6e_thumbnail_250x250"
-    ],
-    "description": ""
-  },
-  {
     "title": "🇵🇱 Dev Radio PL: Kiedy Junior staje się Midem?",
     "url": "https://www.joinclubhouse.com/event/m3NvloYl",
     "date": "2021-03-03T11:00:00+01:00",
@@ -380,6 +364,22 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3697462_45f1e6f1-dab7-4f69-92a2-14c60a07aa66_thumbnail_250x250"
     ],
     "description": "Czy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)"
+  },
+  {
+    "title": "🇵🇱 Dev Radio PL : Event Storming, Narzędzia i Praktyki",
+    "url": "https://www.joinclubhouse.com/event/M6zEeAQn",
+    "date": "2021-02-26T20:00:00+01:00",
+    "speakers": [
+      "Andrzej Śliwa",
+      "Andrzej Krzywda",
+      "Paweł Pacana"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3690398_5fe1ae6e-d642-46e6-8f90-78de8e9d4851_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4488016_f7b205c4-b59b-4212-a1a6-602bf01f7e6e_thumbnail_250x250"
+    ],
+    "description": ""
   },
   {
     "title": "🇵🇱 Dev Radio PL: Programisto, pokaż swój side-project!",
