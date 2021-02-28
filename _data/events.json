@@ -265,11 +265,13 @@
     "date": "2021-03-01T20:00:00+01:00",
     "speakers": [
       "Beata Lipska",
-      "Jan Rutkowski"
+      "Jan Rutkowski",
+      "Arkadiusz Wasilonek"
     ],
     "avatars": [
       "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3893263_c99cdaf3-356f-4ec5-85cb-b8f402da00e9_thumbnail_250x250"
+      "https://clubhouseprod.s3.amazonaws.com:443/3893263_c99cdaf3-356f-4ec5-85cb-b8f402da00e9_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3474869_262ed5aa-3d7d-4fd0-b8c2-a93c1a490aac_thumbnail_250x250"
     ],
     "description": "Jak co tydzień- rozmawiamy o IT i nie tylko. Feedback może wpłynąć na całą naszą karierę, ale też życie- zwłaszcza to wewnętrzne. Jak to jest/było u was? Zapraszam do dyskusji 💪🏻🎙"
   },
