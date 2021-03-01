@@ -12,7 +12,7 @@ SUMMARY:{{ event.title | remove: ',' | remove: ';' }}
 DESCRIPTION:Link: {{ event.url }}\nKto: {% for speaker in event.speakers %}{{ speaker }}{% if forloop.last %}{% else %},{% endif %}{% endfor %}\n{{ event.description }}
 CLASS:PUBLIC
 DTSTART:{{ event.date | to_utc | date: "%Y%m%dT%H%M%S" }}Z
-DTEND:{{ event.date | add_hour | to_utc | date: "%Y%m%dT%H%M%S" }}Z
+DTEND:{{ event.date | add_hour | add_hour | to_utc | date: "%Y%m%dT%H%M%S" }}Z
 DTSTAMP:{{ event.date | to_utc | date: "%Y%m%dT%H%M%S" }}Z
 LAST-MODIFIED:{{ 'now' | to_utc | date: "%Y%m%dT%H%M%S" }}Z
 END:VEVENT{% endfor %}
