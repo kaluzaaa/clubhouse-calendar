@@ -182,6 +182,18 @@
     "description": "Czy pull requesty są dobrym sposobem na wymianę wiedzy w zespole, czy raczej zbędną biurokracją? A może #tozależy?"
   },
   {
+    "title": "🇵🇱Dev Radio PL - Najdroższe zasoby w chmurze",
+    "url": "https://www.joinclubhouse.com/event/M6GAQ0LB",
+    "date": "2021-03-01T13:00:00+01:00",
+    "speakers": [
+      "Pawel Zubkiewicz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250"
+    ],
+    "description": "Czy wiesz jakie są najdroższe zasoby w chmurze? Dziś rozmowa na pograniczu biznesu, kultury organizacyjnej i technologii. #cloud"
+  },
+  {
     "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)",
     "url": "https://www.joinclubhouse.com/event/MzAajrwB",
     "date": "2021-02-25T20:00:00+01:00",
