@@ -14,18 +14,6 @@
     "description": "Analizujemy poprzedni miesiąc pod kątem ważnych wydarzeń z działki cyberbezpieczeństwa. #cyber #security"
   },
   {
-    "title": "🇵🇱 dev-radio.pl 🛡 AppSec Monday LIVE",
-    "url": "https://www.joinclubhouse.com/event/PrD7g7Yl",
-    "date": "2021-03-01T18:30:00+01:00",
-    "speakers": [
-      "Andrzej Dyjak"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250"
-    ],
-    "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
-  },
-  {
     "title": "🇵🇱 Dev Radio PL : Luźno o Event Sourcingu ;)",
     "url": "https://www.joinclubhouse.com/event/xq7DXg98",
     "date": "2021-03-05T20:00:00+01:00",
@@ -328,6 +316,18 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
     ],
     "description": "Wszystko czego nie wiesz a boisz się zapytać White board: https://chaindev.pl/wb"
+  },
+  {
+    "title": "🇵🇱 dev-radio.pl 🛡 AppSec Monday LIVE",
+    "url": "https://www.joinclubhouse.com/event/PrD7g7Yl",
+    "date": "2021-03-01T18:30:00+01:00",
+    "speakers": [
+      "Andrzej Dyjak"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250"
+    ],
+    "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
   },
   {
     "title": "🇵🇱DevRadioPL: O zdalnych konferencjach i CFP z 4Developers ",
