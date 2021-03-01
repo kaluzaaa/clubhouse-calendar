@@ -1,31 +1,5 @@
 [
   {
-    "title": "🇵🇱 IT Tech Talk: Analiza Dynamiczna Lutego",
-    "url": "https://www.joinclubhouse.com/event/M665pwao",
-    "date": "2021-03-03T19:00:00+01:00",
-    "speakers": [
-      "Andrzej Dyjak",
-      "Przemysław Mądry"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/690600495_35228cee-9a64-48ec-bf2e-969e688fe9f2_thumbnail_250x250"
-    ],
-    "description": "Analizujemy poprzedni miesiąc pod kątem ważnych wydarzeń z działki cyberbezpieczeństwa. #cyber #security"
-  },
-  {
-    "title": "🇵🇱 dev-radio.pl 🛡 AppSec Monday LIVE",
-    "url": "https://www.joinclubhouse.com/event/PrD7g7Yl",
-    "date": "2021-03-01T18:30:00+01:00",
-    "speakers": [
-      "Andrzej Dyjak"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250"
-    ],
-    "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
-  },
-  {
     "title": "🇵🇱 Dev Radio PL : Luźno o Event Sourcingu ;)",
     "url": "https://www.joinclubhouse.com/event/xq7DXg98",
     "date": "2021-03-05T20:00:00+01:00",
@@ -40,25 +14,9 @@
     "description": "Kontynuacja tematu podjętego przy okazji dyskusji o Event Storming. W oparciu o różne platformy, języki i rozwiązania mniej lub bardziej kanoniczne ;)"
   },
   {
-    "title": "🇵🇱 Dev Radio PL: Kiedy Junior staje się Midem?",
-    "url": "https://www.joinclubhouse.com/event/m3NvloYl",
-    "date": "2021-03-03T11:00:00+01:00",
-    "speakers": [
-      "Joanna Otmianowska",
-      "Ola Kunysz",
-      "Grzegorz Duda"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/1877365462_2b395e67-0b7c-4c11-b477-57e73d707b79_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/4957738_53117856-4fe3-4aaa-b13c-4f09aaaac68e_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3728233_912bc913-da09-4c40-9282-ff1451ac58a6_thumbnail_250x250"
-    ],
-    "description": "Kiedy Junior Developer przestaje nim być? Jakie są znaki, że już czas na wyższe stanowisko? Czy bardziej liczy się staż, doświadczenie czy mindset? A może jeszcze coś innego?"
-  },
-  {
-    "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Overprocessing)",
+    "title": "🇵🇱Dev Radio PL: LeanIT - na co marnujesz Twój CPU?",
     "url": "https://www.joinclubhouse.com/event/M1gV3LpP",
-    "date": "2021-03-04T13:30:00+01:00",
+    "date": "2021-03-04T14:00:00+01:00",
     "speakers": [
       "Daniel Dec",
       "Grzegorz Jarosz"
@@ -222,6 +180,20 @@
     "description": "Czy wiesz jakie są najdroższe zasoby w chmurze? Dziś rozmowa na pograniczu biznesu, kultury organizacyjnej i technologii. #cloud"
   },
   {
+    "title": "Dev Radio PL: Decyzje w projektach o dużej skali",
+    "url": "https://www.joinclubhouse.com/event/m38L6Nn1",
+    "date": "2021-03-08T16:00:00+01:00",
+    "speakers": [
+      "Piotr Tomaszewski",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3962772_afcaa6be-9673-4ce4-97d1-a09ee20c1d6b_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
+    ],
+    "description": "TBC"
+  },
+  {
     "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)",
     "url": "https://www.joinclubhouse.com/event/MzAajrwB",
     "date": "2021-02-25T20:00:00+01:00",
@@ -316,6 +288,22 @@
     "description": "Jak co tydzień- rozmawiamy o IT i nie tylko. Feedback może wpłynąć na całą naszą karierę, ale też życie- zwłaszcza to wewnętrzne. Jak to jest/było u was? Zapraszam do dyskusji 💪🏻🎙"
   },
   {
+    "title": "🇵🇱 Dev Radio PL: Kiedy Junior staje się Midem?",
+    "url": "https://www.joinclubhouse.com/event/m3NvloYl",
+    "date": "2021-03-03T11:00:00+01:00",
+    "speakers": [
+      "Joanna Otmianowska",
+      "Ola Kunysz",
+      "Grzegorz Duda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/1877365462_2b395e67-0b7c-4c11-b477-57e73d707b79_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4957738_53117856-4fe3-4aaa-b13c-4f09aaaac68e_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3728233_912bc913-da09-4c40-9282-ff1451ac58a6_thumbnail_250x250"
+    ],
+    "description": "Kiedy Junior Developer przestaje nim być? Jakie są znaki, że już czas na wyższe stanowisko? Czy bardziej liczy się staż, doświadczenie czy mindset? A może jeszcze coś innego?"
+  },
+  {
     "title": "🇵🇱 Dev Radio PL - Blockchain 101",
     "url": "https://www.joinclubhouse.com/event/myGeL3ax",
     "date": "2021-02-19T16:00:00+01:00",
@@ -328,6 +316,18 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
     ],
     "description": "Wszystko czego nie wiesz a boisz się zapytać White board: https://chaindev.pl/wb"
+  },
+  {
+    "title": "🇵🇱 dev-radio.pl 🛡 AppSec Monday LIVE",
+    "url": "https://www.joinclubhouse.com/event/PrD7g7Yl",
+    "date": "2021-03-01T18:30:00+01:00",
+    "speakers": [
+      "Andrzej Dyjak"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250"
+    ],
+    "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
   },
   {
     "title": "🇵🇱DevRadioPL: O zdalnych konferencjach i CFP z 4Developers ",
@@ -352,6 +352,20 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3688650_baa2af94-a321-4566-95a0-67280cd8779b_thumbnail_250x250"
     ],
     "description": ""
+  },
+  {
+    "title": "🇵🇱 IT Tech Talk: Analiza Dynamiczna Lutego",
+    "url": "https://www.joinclubhouse.com/event/M665pwao",
+    "date": "2021-03-03T19:10:00+01:00",
+    "speakers": [
+      "Andrzej Dyjak",
+      "Przemysław Mądry"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/690600495_35228cee-9a64-48ec-bf2e-969e688fe9f2_thumbnail_250x250"
+    ],
+    "description": "Analizujemy poprzedni miesiąc pod kątem ważnych wydarzeń z działki cyberbezpieczeństwa. #cyber #security"
   },
   {
     "title": "🇵🇱 Dev-Radio.pl ☁️ Salesforce Developer - z czym to się je?",
