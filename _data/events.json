@@ -1,5 +1,19 @@
 [
   {
+    "title": "🇵🇱 IT Tech Talk: Analiza Dynamiczna Lutego",
+    "url": "https://www.joinclubhouse.com/event/M665pwao",
+    "date": "2021-03-03T19:00:00+01:00",
+    "speakers": [
+      "Andrzej Dyjak",
+      "Przemysław Mądry"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/690600495_35228cee-9a64-48ec-bf2e-969e688fe9f2_thumbnail_250x250"
+    ],
+    "description": "Analizujemy poprzedni miesiąc pod kątem ważnych wydarzeń z działki cyberbezpieczeństwa. #cyber #security"
+  },
+  {
     "title": "🇵🇱 dev-radio.pl 🛡 AppSec Monday LIVE",
     "url": "https://www.joinclubhouse.com/event/PrD7g7Yl",
     "date": "2021-03-01T18:30:00+01:00",
