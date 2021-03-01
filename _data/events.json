@@ -42,6 +42,20 @@
     "description": "Kiedy Junior Developer przestaje nim być? Jakie są znaki, że już czas na wyższe stanowisko? Czy bardziej liczy się staż, doświadczenie czy mindset? A może jeszcze coś innego?"
   },
   {
+    "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Overprocessing)",
+    "url": "https://www.joinclubhouse.com/event/M1gV3LpP",
+    "date": "2021-03-04T13:30:00+01:00",
+    "speakers": [
+      "Daniel Dec",
+      "Grzegorz Jarosz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250"
+    ],
+    "description": "Tym razem przyjrzymy się kolejnej stracie w naszych softwarowych projektach. Będzie to zbędne przetwarzanie. Jeżeli wyczerpiemy temat, weźmiemy jeszcze zbędny transport. Max 1.5h"
+  },
+  {
     "title": "🇵🇱 DevRadio PL: Mikroserwisy, monolity czy.. mikromonolity?",
     "url": "https://www.joinclubhouse.com/event/m7zyKaV1",
     "date": "2021-02-26T14:00:00+01:00",
