@@ -37,28 +37,28 @@ def GetClubhouse(url):
     PACIFIC = tz.gettz('America/Los_Angeles')
     to_zone = tz.gettz('Europe/Warsaw')
     timezone_info = {"PST": PACIFIC, "PDT": PACIFIC}
-    date = soup.find('div', class_='text-gray-600 text-md')
+    date = soup.find('div', class_='ml-1')
     date = re.sub(' +', ' ', date.text.replace('\n',''))
     date = parser.parse(date, tzinfos=timezone_info)
     date = date.astimezone(to_zone)
     
     # speakers name
-    speakers = soup.find('div', class_='px-6 mt-2 italic font-light text-black text-md')
+    speakers = soup.find('div', class_='text-sm font-thin mt-2').find('em')
     speakers = [x.strip() for x in speakers.text.replace('w/','').split(',')]
     
     # avatars
-    results = soup.find_all('div', class_='flex items-center justify-center')
+    results = soup.find_all('div', class_='w-16 h-16 sm:w-20 sm:h-20 mx-auto bg-center bg-cover border border-gray-400 rounded-ch')
     avatar_img_urls = FindUrl(str(results))
     
     # description
-    description = soup.select("div[class='mt-6']")[0].text.strip()
+    description = str(soup.find('div', class_='text-sm font-thin mt-2').text).replace(str(soup.find('div', class_='text-sm font-thin mt-2').find('em').text),'').replace('—','').strip()
 
     event = {"title": title, "url": url, "date" : date.isoformat(), "speakers" : speakers, "avatars" : avatar_img_urls, "description" : description}
     
     return event
 
 
-# main ;-)
+## main ;-)
 urls = []
 
 g = Github(os.getenv('GITHUB_TOKEN'))
