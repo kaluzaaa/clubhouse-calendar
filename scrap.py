@@ -24,6 +24,7 @@ headers.update({
 })
 
 def GetClubhouse(url):
+    print(url)
     page = requests.get(url, headers=headers)
     soup = BeautifulSoup(page.content, "html.parser")
     
@@ -39,6 +40,8 @@ def GetClubhouse(url):
     timezone_info = {"PST": PACIFIC, "PDT": PACIFIC}
     date = soup.find('div', class_='ml-1')
     date = re.sub(' +', ' ', date.text.replace('\n',''))
+    date = date.replace('(','')
+    date = date.replace(')','')
     date = parser.parse(date, tzinfos=timezone_info)
     date = date.astimezone(to_zone)
     
