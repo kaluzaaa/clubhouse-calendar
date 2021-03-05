@@ -1,5 +1,19 @@
 [
   {
+    "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz",
+    "url": "https://www.joinclubhouse.com/event/xl48DdAX",
+    "date": "2021-03-08T13:00:00+01:00",
+    "speakers": [
+      "Pawel Zubkiewicz",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
+    ],
+    "description": "Albo krócej „Programujesz Utrzymujesz”. Tematem spotkania będą daleko posunięte praktyki DevOps, w myśl których programiści zajmują się wsparciem i utrzymaniem aplikacji wdrożonych na produkcje."
+  },
+  {
     "title": "🇵🇱dev-radio.pl Syndrom Oszusta w naszym życiu zawodowym",
     "url": "https://www.joinclubhouse.com/event/xoaBQj46",
     "date": "2021-03-08T20:00:00+01:00",
