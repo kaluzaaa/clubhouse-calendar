@@ -1,6 +1,44 @@
 [
   {
-    "title": "🇵🇱DevRadioPL: Organizacja kodu w projektach ML",
+    "title": "Dev Radio PL: Q&A#1 Kto gada z klientem-pośrednik czy Ty?",
+    "url": "https://www.joinclubhouse.com/event/xnejdE33",
+    "date": "2021-03-11T18:00:00+01:00",
+    "speakers": [
+      "Grzegorz Jarosz",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Q&A#1\nAndrzej Krzywda o tym czy zespoły dev mogą rozmawiać z klientem czy potrzebują pośrednika (PMa) i kiedy jest on urzędnikiem :)\n- 20-30 min. pytam Andrzeja\n- plus dyskusja otwarta :) (moderowana)"
+  },
+  {
+    "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xl48DdAX",
+    "date": "2021-03-08T13:00:00+01:00",
+    "speakers": [
+      "Pawel Zubkiewicz",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
+    ],
+    "description": "Albo krócej „Programujesz Utrzymujesz”. Tematem spotkania będą daleko posunięte praktyki DevOps, w myśl których programiści zajmują się wsparciem i utrzymaniem aplikacji wdrożonych na produkcje."
+  },
+  {
+    "title": "🇵🇱dev-radio.pl Syndrom Oszusta w naszym życiu zawodowym - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xoaBQj46",
+    "date": "2021-03-08T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska"
+    ],
+    "avatars": [],
+    "description": "Podobno to bardzo ciężki temat, ale bliski nam wszystkim- syndrom oszusta. Porozmawiajmy o tym otwarcie, zróbmy coś z tym 💪🏻 może macie sprawdzone sposoby jak walczyć z poczuciem nieudolności😖? 🎙😊🔥"
+  },
+  {
+    "title": "🇵🇱DevRadioPL: Organizacja kodu w projektach ML - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/M175vWD2",
     "date": "2021-03-10T18:00:00+01:00",
     "speakers": [
@@ -16,20 +54,6 @@
       "https://clubhouseprod.s3.amazonaws.com:443/1626138165_f14e8ec3-b951-4801-a423-38a47c02b275_thumbnail_250x250"
     ],
     "description": "Jak organizujesz kod w swoich projektach Machine Learning? Co działa, co nie działa. Które praktyki warto zaczerpnąć z świata developerskiego a które z naukowego?"
-  },
-  {
-    "title": "🇵🇱 Dev Radio PL : Luźno o Event Sourcingu ;)",
-    "url": "https://www.joinclubhouse.com/event/xq7DXg98",
-    "date": "2021-03-05T20:00:00+01:00",
-    "speakers": [
-      "Andrzej Śliwa",
-      "Andrzej Krzywda"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3690398_5fe1ae6e-d642-46e6-8f90-78de8e9d4851_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
-    ],
-    "description": "Kontynuacja tematu podjętego przy okazji dyskusji o Event Storming. W oparciu o różne platformy, języki i rozwiązania mniej lub bardziej kanoniczne ;)"
   },
   {
     "title": "🇵🇱Dev Radio PL: LeanIT - na co marnujesz Twój CPU?",
@@ -180,7 +204,7 @@
     "description": "Czy wiesz jakie są najdroższe zasoby w chmurze? Dziś rozmowa na pograniczu biznesu, kultury organizacyjnej i technologii. #cloud"
   },
   {
-    "title": "Dev Radio PL: Decyzje w projektach o dużej skali",
+    "title": "Dev Radio PL: Decyzje w projektach o dużej skali - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/m38L6Nn1",
     "date": "2021-03-08T16:00:00+01:00",
     "speakers": [
@@ -245,6 +269,20 @@
     ],
     "avatars": [],
     "description": "Spotkanie dla osób stawiających pierwsze kroki w chmurowym programowaniu (Cloud Native). Uzyskasz odpowiedzi na podstawowe pytania: kiedy, gdzie i dlaczego warto używać serverless? +odp. na Wasze pyt."
+  },
+  {
+    "title": "🇵🇱 Dev Radio PL : Luźno o Event Sourcingu ;)",
+    "url": "https://www.joinclubhouse.com/event/xq7DXg98",
+    "date": "2021-03-05T20:00:00+01:00",
+    "speakers": [
+      "Andrzej Śliwa",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3690398_5fe1ae6e-d642-46e6-8f90-78de8e9d4851_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Kontynuacja tematu podjętego przy okazji dyskusji o Event Storming. W oparciu o różne platformy, języki i rozwiązania mniej lub bardziej kanoniczne ;)"
   },
   {
     "title": "🇵🇱Dev Radio PL - dzisiaj o testach",
