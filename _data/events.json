@@ -56,20 +56,6 @@
     "description": "Jak organizujesz kod w swoich projektach Machine Learning? Co działa, co nie działa. Które praktyki warto zaczerpnąć z świata developerskiego a które z naukowego?"
   },
   {
-    "title": "🇵🇱 Dev Radio PL : Luźno o Event Sourcingu ;)",
-    "url": "https://www.joinclubhouse.com/event/xq7DXg98",
-    "date": "2021-03-05T20:00:00+01:00",
-    "speakers": [
-      "Andrzej Śliwa",
-      "Andrzej Krzywda"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3690398_5fe1ae6e-d642-46e6-8f90-78de8e9d4851_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
-    ],
-    "description": "Kontynuacja tematu podjętego przy okazji dyskusji o Event Storming. W oparciu o różne platformy, języki i rozwiązania mniej lub bardziej kanoniczne ;)"
-  },
-  {
     "title": "🇵🇱Dev Radio PL: LeanIT - na co marnujesz Twój CPU?",
     "url": "https://www.joinclubhouse.com/event/M1gV3LpP",
     "date": "2021-03-04T14:00:00+01:00",
@@ -283,6 +269,20 @@
     ],
     "avatars": [],
     "description": "Spotkanie dla osób stawiających pierwsze kroki w chmurowym programowaniu (Cloud Native). Uzyskasz odpowiedzi na podstawowe pytania: kiedy, gdzie i dlaczego warto używać serverless? +odp. na Wasze pyt."
+  },
+  {
+    "title": "🇵🇱 Dev Radio PL : Luźno o Event Sourcingu ;)",
+    "url": "https://www.joinclubhouse.com/event/xq7DXg98",
+    "date": "2021-03-05T20:00:00+01:00",
+    "speakers": [
+      "Andrzej Śliwa",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3690398_5fe1ae6e-d642-46e6-8f90-78de8e9d4851_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Kontynuacja tematu podjętego przy okazji dyskusji o Event Storming. W oparciu o różne platformy, języki i rozwiązania mniej lub bardziej kanoniczne ;)"
   },
   {
     "title": "🇵🇱Dev Radio PL - dzisiaj o testach",
