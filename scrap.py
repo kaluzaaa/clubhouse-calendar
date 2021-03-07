@@ -50,7 +50,7 @@ def GetClubhouse(url):
     speakers = [x.strip() for x in speakers.text.replace('w/','').split(',')]
     
     # avatars
-    results = soup.find_all('div', class_='w-16 h-16 sm:w-20 sm:h-20 mx-auto bg-center bg-cover border border-gray-400 rounded-ch')
+    results = soup.find_all('div', class_='px-1')
     avatar_img_urls = FindUrl(str(results))
     
     # description
