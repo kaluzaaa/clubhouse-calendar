@@ -1,5 +1,17 @@
 [
   {
+    "title": "🇵🇱 DevRadio PL Blockchain 101 - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/PY6nDl6G",
+    "date": "2021-03-12T16:00:00+01:00",
+    "speakers": [
+      "Adam Smolarek"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
+    "description": "Podstawy blockchaina + napisz swój własny NFT"
+  },
+  {
     "title": "Dev Radio PL: Q&A#1 Kto gada z klientem-pośrednik czy Ty?",
     "url": "https://www.joinclubhouse.com/event/xnejdE33",
     "date": "2021-03-11T18:00:00+01:00",
@@ -14,31 +26,7 @@
     "description": "Q&A#1\nAndrzej Krzywda o tym czy zespoły dev mogą rozmawiać z klientem czy potrzebują pośrednika (PMa) i kiedy jest on urzędnikiem :)\n- 20-30 min. pytam Andrzeja\n- plus dyskusja otwarta :) (moderowana)"
   },
   {
-    "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
-    "url": "https://www.joinclubhouse.com/event/xl48DdAX",
-    "date": "2021-03-08T13:00:00+01:00",
-    "speakers": [
-      "Pawel Zubkiewicz",
-      "Łukasz Kałużny"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
-    ],
-    "description": "Albo krócej „Programujesz Utrzymujesz”. Tematem spotkania będą daleko posunięte praktyki DevOps, w myśl których programiści zajmują się wsparciem i utrzymaniem aplikacji wdrożonych na produkcje."
-  },
-  {
-    "title": "🇵🇱dev-radio.pl Syndrom Oszusta w naszym życiu zawodowym - dev-radio.pl",
-    "url": "https://www.joinclubhouse.com/event/xoaBQj46",
-    "date": "2021-03-08T20:00:00+01:00",
-    "speakers": [
-      "Beata Lipska"
-    ],
-    "avatars": [],
-    "description": "Podobno to bardzo ciężki temat, ale bliski nam wszystkim- syndrom oszusta. Porozmawiajmy o tym otwarcie, zróbmy coś z tym 💪🏻 może macie sprawdzone sposoby jak walczyć z poczuciem nieudolności😖? 🎙😊🔥"
-  },
-  {
-    "title": "🇵🇱DevRadioPL: Organizacja kodu w projektach ML - dev-radio.pl",
+    "title": "🇵🇱DevRadioPL: Organizacja kodu w projektach ML",
     "url": "https://www.joinclubhouse.com/event/M175vWD2",
     "date": "2021-03-10T18:00:00+01:00",
     "speakers": [
@@ -54,6 +42,20 @@
       "https://clubhouseprod.s3.amazonaws.com:443/1626138165_f14e8ec3-b951-4801-a423-38a47c02b275_thumbnail_250x250"
     ],
     "description": "Jak organizujesz kod w swoich projektach Machine Learning? Co działa, co nie działa. Które praktyki warto zaczerpnąć z świata developerskiego a które z naukowego?"
+  },
+  {
+    "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xl48DdAX",
+    "date": "2021-03-08T13:00:00+01:00",
+    "speakers": [
+      "Pawel Zubkiewicz",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
+    ],
+    "description": "Albo krócej „Programujesz Utrzymujesz”. Tematem spotkania będą daleko posunięte praktyki DevOps, w myśl których programiści zajmują się wsparciem i utrzymaniem aplikacji wdrożonych na produkcje."
   },
   {
     "title": "🇵🇱Dev Radio PL: LeanIT - na co marnujesz Twój CPU?",
@@ -90,8 +92,24 @@
     "speakers": [
       "Adam Smolarek"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
     "description": "Porównanie blockchain z technologiami których już używasz w swojej pracy jako dev"
+  },
+  {
+    "title": "🇵🇱dev-radio.pl - Blogowanie po ang jest bez sensu 📰🌎🇬🇧🇺🇸 - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xB4lzw2R",
+    "date": "2021-03-09T15:00:00+01:00",
+    "speakers": [
+      "Mirabella Burek",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Rozmowa z Andrzejem Krzywdą na temat blogowania. Będziemy mówić o początkach, obiekcjach oraz niesamowitych korzyściach, które są udziałem tych, którzy tworzą własne miejsce w sieci."
   },
   {
     "title": "🇵🇱Dev Radio PL: moduły w projekcie == konteksty biznesowe ",
@@ -100,7 +118,9 @@
     "speakers": [
       "Andrzej Krzywda"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
     "description": "pogadamy sobie o tym jak biznes przekłada się na kodzik, konteksty z DDD, read modele oraz procesy. dla chętnych - szybka terapia Twojego projektu jakie moduły wprowadzić"
   },
   {
@@ -114,7 +134,13 @@
       "Maciek Stęga",
       "Pawel Tomczuk"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1501380967_abe6ca1a-3aab-47a5-9069-1289f7c0e596_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3474869_0db6143d-05d9-40cf-a327-5f1bec1460bf_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1989064389_6e0d641c-20df-4a75-a352-5ecbfa82475a_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3592180_f969f4ec-84f2-437a-ad76-f01774ced45c_thumbnail_250x250"
+    ],
     "description": "Czy potrzebujesz mentora? Czym jest Mentoring? Jakie są cechy dobrego mentora? Jaka powinna być osoba korzystająca z mentoringu? Jaką wartość wnosi mentor? Kiedy warto? Kiedy nie warto? Słyszymy się 🎙"
   },
   {
@@ -174,7 +200,13 @@
       "Patryk Romańczuk",
       "Bartosz  Kraszewski"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3893263_c99cdaf3-356f-4ec5-85cb-b8f402da00e9_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1047675298_133db81f-a84e-4738-9521-3b14b523ab80_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1743244660_90c155e4-91b0-4a37-9c30-948b4b56cba3_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/412386302_94b83081-91eb-4c58-92da-20937d032c6b_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/290227627_ad3e3086-56bc-4996-9974-9e13b1633b91_thumbnail_250x250"
+    ],
     "description": ""
   },
   {
@@ -200,11 +232,13 @@
     "speakers": [
       "Pawel Zubkiewicz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250"
+    ],
     "description": "Czy wiesz jakie są najdroższe zasoby w chmurze? Dziś rozmowa na pograniczu biznesu, kultury organizacyjnej i technologii. #cloud"
   },
   {
-    "title": "Dev Radio PL: Decyzje w projektach o dużej skali - dev-radio.pl",
+    "title": "Dev Radio PL: Co może zaskoczyć w projektach o dużej skali? - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/m38L6Nn1",
     "date": "2021-03-08T16:00:00+01:00",
     "speakers": [
@@ -215,7 +249,7 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3962772_afcaa6be-9673-4ce4-97d1-a09ee20c1d6b_thumbnail_250x250",
       "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
     ],
-    "description": "TBC"
+    "description": "Kto powiedział, że rozmiar nie ma znaczenia? W kolejnym odcinku cyklu poświęconego szeroko pojętej architekturze IT porozmawiamy o wyzwaniach jakie pojawiają się w złożonych projektach o dużej skali."
   },
   {
     "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)",
@@ -243,8 +277,27 @@
       "Marcin Cierpicki",
       "Dawid Andrzejewski"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3474869_0db6143d-05d9-40cf-a327-5f1bec1460bf_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3531058_61a723ce-e417-452a-8707-e2f21aeaf3f4_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1575391059_8a15efbc-7264-4e2c-9bb5-488049a9e5ed_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/495246852_64b95c4a-f22f-4a9a-b234-a4451462eeaa_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/5461853_ba503286-539c-4388-9b24-866b5085a0ef_thumbnail_250x250"
+    ],
     "description": "Low-code, no-code prototyping - jak walidować swoje pomysły mniejszym kosztem? Porozmawiamy o ciekawych narzędziach i podejściach, które skracaja czas walidacji pomysłów biznesowych."
+  },
+  {
+    "title": "🇵🇱dev-radio.pl Syndrom Oszusta w naszym życiu zawodowym - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xoaBQj46",
+    "date": "2021-03-08T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
+    "description": "Podobno to bardzo ciężki temat, ale bliski nam wszystkim- syndrom oszusta. Porozmawiajmy o tym otwarcie, zróbmy coś z tym 💪🏻 może macie sprawdzone sposoby jak walczyć z poczuciem nieudolności😖? 🎙😊🔥"
   },
   {
     "title": "🇵🇱DEV Radio PL: Cloud native, agnostic, multi-cloud",
@@ -267,7 +320,9 @@
     "speakers": [
       "Pawel Zubkiewicz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250"
+    ],
     "description": "Spotkanie dla osób stawiających pierwsze kroki w chmurowym programowaniu (Cloud Native). Uzyskasz odpowiedzi na podstawowe pytania: kiedy, gdzie i dlaczego warto używać serverless? +odp. na Wasze pyt."
   },
   {
@@ -353,7 +408,9 @@
     "speakers": [
       "Andrzej Dyjak"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250"
+    ],
     "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
   },
   {
@@ -371,7 +428,13 @@
       "Sylwia Wojtas",
       "Paweł Fiderek"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3942155_461a9252-e5a4-472a-a390-057fbca9ef10_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4055520_e6367c4c-7a20-4415-ab82-a69ab9239008_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/622404900_2c19af6c-b887-46e3-9327-c5f1cb7cdbb5_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3688650_baa2af94-a321-4566-95a0-67280cd8779b_thumbnail_250x250"
+    ],
     "description": ""
   },
   {
@@ -395,7 +458,9 @@
     "speakers": [
       "Piotr Ogrodowicz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3703865_649e1c0e-b820-4304-9f7f-d8097d6bd0a9_thumbnail_250x250"
+    ],
     "description": ""
   },
   {
@@ -405,7 +470,9 @@
     "speakers": [
       "Beata Lipska"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
     "description": "Będziemy tym razem rozmawiać o tych stresujących momentach szukania w pracy IT i może uda mi się wraz z Waszą pomocą rozwiać trochę mitów na temat rozmów kwalifikacyjnych do branży IT. Zapraszam 😏🤓💻"
   },
   {
@@ -415,7 +482,9 @@
     "speakers": [
       "Adam Smolarek"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
     "description": "Porównanie blockchainów btc eth ada hlf, od strony technologicznej"
   },
   {
@@ -443,7 +512,9 @@
     "speakers": [
       "Dariusz Mydlarz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3697462_45f1e6f1-dab7-4f69-92a2-14c60a07aa66_thumbnail_250x250"
+    ],
     "description": "Czy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)"
   },
   {
@@ -469,22 +540,10 @@
     "speakers": [
       "Szymon Paluch"
     ],
-    "avatars": [],
-    "description": "Wielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. Jeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!"
-  },
-  {
-    "title": "🇵🇱 Dev Radio PL: Początki w IT - jakie masz wątpliwości?",
-    "url": "https://www.joinclubhouse.com/event/MwWkGAEk",
-    "date": "2021-03-09T18:00:00+01:00",
-    "speakers": [
-      "Robert Krzaczyński",
-      "Łukasz Reszke"
-    ],
     "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/4017134_90948c67-1c8a-4e27-a252-8d80f2029ede_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3721699_4cbd0b28-4078-4881-8d4f-c81a0cb5042e_thumbnail_250x250"
+      "https://clubhouseprod.s3.amazonaws.com:443/167689439_ac50814e-54b8-4295-9a21-a8bde824935a_thumbnail_250x250"
     ],
-    "description": "Porozmawiamy o tym, jak zacząć przygodę z IT, skąd czerpać wiedzę i jak radzić sobie z problemami/wątpliwościami, które pojawiają się na początku tej drogi."
+    "description": "Wielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. Jeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!"
   },
   {
     "title": "🇵🇱 Dev Radio PL: ML-oddzielna profesja czy kolejny dev skil",
@@ -527,7 +586,9 @@
     "speakers": [
       "Daniel Dec"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250"
+    ],
     "description": "Będzie to wstęp do wydajności systemów. Dlaczego i kiedy jest ważna. Gdzie jest wydajność? Jak ją mierzyć? Przejdziemy przez warstwy, powiem o podejściu i narzędziach."
   },
   {
