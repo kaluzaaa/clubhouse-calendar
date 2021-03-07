@@ -34,7 +34,9 @@
     "speakers": [
       "Beata Lipska"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
     "description": "Podobno to bardzo ciężki temat, ale bliski nam wszystkim- syndrom oszusta. Porozmawiajmy o tym otwarcie, zróbmy coś z tym 💪🏻 może macie sprawdzone sposoby jak walczyć z poczuciem nieudolności😖? 🎙😊🔥"
   },
   {
@@ -90,7 +92,9 @@
     "speakers": [
       "Adam Smolarek"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
     "description": "Porównanie blockchain z technologiami których już używasz w swojej pracy jako dev"
   },
   {
@@ -100,7 +104,9 @@
     "speakers": [
       "Andrzej Krzywda"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
     "description": "pogadamy sobie o tym jak biznes przekłada się na kodzik, konteksty z DDD, read modele oraz procesy. dla chętnych - szybka terapia Twojego projektu jakie moduły wprowadzić"
   },
   {
@@ -114,7 +120,13 @@
       "Maciek Stęga",
       "Pawel Tomczuk"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1501380967_abe6ca1a-3aab-47a5-9069-1289f7c0e596_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3474869_0db6143d-05d9-40cf-a327-5f1bec1460bf_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1989064389_6e0d641c-20df-4a75-a352-5ecbfa82475a_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3592180_f969f4ec-84f2-437a-ad76-f01774ced45c_thumbnail_250x250"
+    ],
     "description": "Czy potrzebujesz mentora? Czym jest Mentoring? Jakie są cechy dobrego mentora? Jaka powinna być osoba korzystająca z mentoringu? Jaką wartość wnosi mentor? Kiedy warto? Kiedy nie warto? Słyszymy się 🎙"
   },
   {
@@ -174,7 +186,13 @@
       "Patryk Romańczuk",
       "Bartosz  Kraszewski"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3893263_c99cdaf3-356f-4ec5-85cb-b8f402da00e9_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1047675298_133db81f-a84e-4738-9521-3b14b523ab80_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1743244660_90c155e4-91b0-4a37-9c30-948b4b56cba3_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/412386302_94b83081-91eb-4c58-92da-20937d032c6b_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/290227627_ad3e3086-56bc-4996-9974-9e13b1633b91_thumbnail_250x250"
+    ],
     "description": ""
   },
   {
@@ -200,7 +218,9 @@
     "speakers": [
       "Pawel Zubkiewicz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250"
+    ],
     "description": "Czy wiesz jakie są najdroższe zasoby w chmurze? Dziś rozmowa na pograniczu biznesu, kultury organizacyjnej i technologii. #cloud"
   },
   {
@@ -243,7 +263,14 @@
       "Marcin Cierpicki",
       "Dawid Andrzejewski"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3474869_0db6143d-05d9-40cf-a327-5f1bec1460bf_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3531058_61a723ce-e417-452a-8707-e2f21aeaf3f4_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1575391059_8a15efbc-7264-4e2c-9bb5-488049a9e5ed_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/495246852_64b95c4a-f22f-4a9a-b234-a4451462eeaa_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/5461853_ba503286-539c-4388-9b24-866b5085a0ef_thumbnail_250x250"
+    ],
     "description": "Low-code, no-code prototyping - jak walidować swoje pomysły mniejszym kosztem? Porozmawiamy o ciekawych narzędziach i podejściach, które skracaja czas walidacji pomysłów biznesowych."
   },
   {
@@ -267,7 +294,9 @@
     "speakers": [
       "Pawel Zubkiewicz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250"
+    ],
     "description": "Spotkanie dla osób stawiających pierwsze kroki w chmurowym programowaniu (Cloud Native). Uzyskasz odpowiedzi na podstawowe pytania: kiedy, gdzie i dlaczego warto używać serverless? +odp. na Wasze pyt."
   },
   {
@@ -353,7 +382,9 @@
     "speakers": [
       "Andrzej Dyjak"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250"
+    ],
     "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
   },
   {
@@ -371,7 +402,13 @@
       "Sylwia Wojtas",
       "Paweł Fiderek"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3942155_461a9252-e5a4-472a-a390-057fbca9ef10_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4055520_e6367c4c-7a20-4415-ab82-a69ab9239008_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/622404900_2c19af6c-b887-46e3-9327-c5f1cb7cdbb5_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3688650_baa2af94-a321-4566-95a0-67280cd8779b_thumbnail_250x250"
+    ],
     "description": ""
   },
   {
@@ -395,7 +432,9 @@
     "speakers": [
       "Piotr Ogrodowicz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3703865_649e1c0e-b820-4304-9f7f-d8097d6bd0a9_thumbnail_250x250"
+    ],
     "description": ""
   },
   {
@@ -405,7 +444,9 @@
     "speakers": [
       "Beata Lipska"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
     "description": "Będziemy tym razem rozmawiać o tych stresujących momentach szukania w pracy IT i może uda mi się wraz z Waszą pomocą rozwiać trochę mitów na temat rozmów kwalifikacyjnych do branży IT. Zapraszam 😏🤓💻"
   },
   {
@@ -415,7 +456,9 @@
     "speakers": [
       "Adam Smolarek"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
     "description": "Porównanie blockchainów btc eth ada hlf, od strony technologicznej"
   },
   {
@@ -443,7 +486,9 @@
     "speakers": [
       "Dariusz Mydlarz"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3697462_45f1e6f1-dab7-4f69-92a2-14c60a07aa66_thumbnail_250x250"
+    ],
     "description": "Czy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)"
   },
   {
@@ -469,7 +514,9 @@
     "speakers": [
       "Szymon Paluch"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/167689439_ac50814e-54b8-4295-9a21-a8bde824935a_thumbnail_250x250"
+    ],
     "description": "Wielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. Jeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!"
   },
   {
@@ -527,7 +574,9 @@
     "speakers": [
       "Daniel Dec"
     ],
-    "avatars": [],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250"
+    ],
     "description": "Będzie to wstęp do wydajności systemów. Dlaczego i kiedy jest ważna. Gdzie jest wydajność? Jak ją mierzyć? Przejdziemy przez warstwy, powiem o podejściu i narzędziach."
   },
   {
