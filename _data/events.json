@@ -224,7 +224,7 @@
     "description": "Czy wiesz jakie są najdroższe zasoby w chmurze? Dziś rozmowa na pograniczu biznesu, kultury organizacyjnej i technologii. #cloud"
   },
   {
-    "title": "Dev Radio PL: Decyzje w projektach o dużej skali - dev-radio.pl",
+    "title": "Dev Radio PL: Co może zaskoczyć w projektach o dużej skali? - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/m38L6Nn1",
     "date": "2021-03-08T16:00:00+01:00",
     "speakers": [
@@ -235,7 +235,7 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3962772_afcaa6be-9673-4ce4-97d1-a09ee20c1d6b_thumbnail_250x250",
       "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
     ],
-    "description": "TBC"
+    "description": "Kto powiedział, że rozmiar nie ma znaczenia? W kolejnym odcinku cyklu poświęconego szeroko pojętej architekturze IT porozmawiamy o wyzwaniach jakie pojawiają się w złożonych projektach o dużej skali."
   },
   {
     "title": "🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)",
