@@ -26,20 +26,6 @@
     "description": "Q&A#1\nAndrzej Krzywda o tym czy zespoły dev mogą rozmawiać z klientem czy potrzebują pośrednika (PMa) i kiedy jest on urzędnikiem :)\n- 20-30 min. pytam Andrzeja\n- plus dyskusja otwarta :) (moderowana)"
   },
   {
-    "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
-    "url": "https://www.joinclubhouse.com/event/xl48DdAX",
-    "date": "2021-03-08T13:00:00+01:00",
-    "speakers": [
-      "Pawel Zubkiewicz",
-      "Łukasz Kałużny"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
-    ],
-    "description": "Albo krócej „Programujesz Utrzymujesz”. Tematem spotkania będą daleko posunięte praktyki DevOps, w myśl których programiści zajmują się wsparciem i utrzymaniem aplikacji wdrożonych na produkcje."
-  },
-  {
     "title": "🇵🇱dev-radio.pl Syndrom Oszusta w naszym życiu zawodowym - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/xoaBQj46",
     "date": "2021-03-08T20:00:00+01:00",
@@ -68,6 +54,20 @@
       "https://clubhouseprod.s3.amazonaws.com:443/1626138165_f14e8ec3-b951-4801-a423-38a47c02b275_thumbnail_250x250"
     ],
     "description": "Jak organizujesz kod w swoich projektach Machine Learning? Co działa, co nie działa. Które praktyki warto zaczerpnąć z świata developerskiego a które z naukowego?"
+  },
+  {
+    "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xl48DdAX",
+    "date": "2021-03-08T13:00:00+01:00",
+    "speakers": [
+      "Pawel Zubkiewicz",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
+    ],
+    "description": "Albo krócej „Programujesz Utrzymujesz”. Tematem spotkania będą daleko posunięte praktyki DevOps, w myśl których programiści zajmują się wsparciem i utrzymaniem aplikacji wdrożonych na produkcje."
   },
   {
     "title": "🇵🇱Dev Radio PL: LeanIT - na co marnujesz Twój CPU?",
