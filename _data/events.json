@@ -110,6 +110,20 @@
     "description": "Porównanie blockchain z technologiami których już używasz w swojej pracy jako dev"
   },
   {
+    "title": "🇵🇱dev-radio.pl - Blogowanie po ang jest bez sensu 📰🌎🇬🇧🇺🇸 - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xB4lzw2R",
+    "date": "2021-03-09T15:00:00+01:00",
+    "speakers": [
+      "Mirabella Burek",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Rozmowa z Andrzejem Krzywdą na temat blogowania. Będziemy mówić o początkach, obiekcjach oraz niesamowitych korzyściach, które są udziałem tych, którzy tworzą własne miejsce w sieci."
+  },
+  {
     "title": "🇵🇱Dev Radio PL: moduły w projekcie == konteksty biznesowe ",
     "url": "https://www.joinclubhouse.com/event/xpeELErv",
     "date": "2021-02-08T16:00:00+01:00",
