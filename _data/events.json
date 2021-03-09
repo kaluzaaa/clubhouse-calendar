@@ -26,18 +26,6 @@
     "description": "Q&A#1\nAndrzej Krzywda o tym czy zespoły dev mogą rozmawiać z klientem czy potrzebują pośrednika (PMa) i kiedy jest on urzędnikiem :)\n- 20-30 min. pytam Andrzeja\n- plus dyskusja otwarta :) (moderowana)"
   },
   {
-    "title": "🇵🇱dev-radio.pl Syndrom Oszusta w naszym życiu zawodowym - dev-radio.pl",
-    "url": "https://www.joinclubhouse.com/event/xoaBQj46",
-    "date": "2021-03-08T20:00:00+01:00",
-    "speakers": [
-      "Beata Lipska"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
-    ],
-    "description": "Podobno to bardzo ciężki temat, ale bliski nam wszystkim- syndrom oszusta. Porozmawiajmy o tym otwarcie, zróbmy coś z tym 💪🏻 może macie sprawdzone sposoby jak walczyć z poczuciem nieudolności😖? 🎙😊🔥"
-  },
-  {
     "title": "🇵🇱DevRadioPL: Organizacja kodu w projektach ML - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/M175vWD2",
     "date": "2021-03-10T18:00:00+01:00",
@@ -298,6 +286,18 @@
       "https://clubhouseprod.s3.amazonaws.com:443/5461853_ba503286-539c-4388-9b24-866b5085a0ef_thumbnail_250x250"
     ],
     "description": "Low-code, no-code prototyping - jak walidować swoje pomysły mniejszym kosztem? Porozmawiamy o ciekawych narzędziach i podejściach, które skracaja czas walidacji pomysłów biznesowych."
+  },
+  {
+    "title": "🇵🇱dev-radio.pl Syndrom Oszusta w naszym życiu zawodowym - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xoaBQj46",
+    "date": "2021-03-08T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
+    "description": "Podobno to bardzo ciężki temat, ale bliski nam wszystkim- syndrom oszusta. Porozmawiajmy o tym otwarcie, zróbmy coś z tym 💪🏻 może macie sprawdzone sposoby jak walczyć z poczuciem nieudolności😖? 🎙😊🔥"
   },
   {
     "title": "🇵🇱DEV Radio PL: Cloud native, agnostic, multi-cloud",
