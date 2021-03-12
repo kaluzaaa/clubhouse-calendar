@@ -85,7 +85,9 @@ urls = list(dict.fromkeys(urls))
 events = []
 
 for url in urls:
-    events.append(GetClubhouse(url))
+    event = GetClubhouse(url)
+    if event != None:
+        events.append(event)
 
 with open('_data/events.json', 'w') as outfile:
     json.dump(events, outfile, ensure_ascii=False, indent=2)
