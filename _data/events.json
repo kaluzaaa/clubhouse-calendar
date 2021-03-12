@@ -1,5 +1,19 @@
 [
   {
+    "title": "🇵🇱dev-radio.pl Za późno, by wejść do branży IT? Kiedy? - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xnKRVq01",
+    "date": "2021-03-15T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska",
+      "Anna Garbacz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4190870_e014a953-ec1a-4fd8-8ffc-2d30d0b7269d_thumbnail_250x250"
+    ],
+    "description": "Czy realistycznie można ocenić kiedy jest za późno, by wejść do branży IT? Jak to ocenić z perspektywy osoby rekrutującej, ale też rekrutowanej. Czy przebranżowieniu musi towarzyszyć \"krok do tyłu\"? 🎙"
+  },
+  {
     "title": "🇵🇱 DevRadio PL Blockchain 101 - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/PY6nDl6G",
     "date": "2021-03-12T16:00:00+01:00",
@@ -10,38 +24,6 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
     ],
     "description": "Podstawy blockchaina + napisz swój własny NFT"
-  },
-  {
-    "title": "Dev Radio PL: Q&A#1 Kto gada z klientem-pośrednik czy Ty?",
-    "url": "https://www.joinclubhouse.com/event/xnejdE33",
-    "date": "2021-03-11T18:00:00+01:00",
-    "speakers": [
-      "Grzegorz Jarosz",
-      "Andrzej Krzywda"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
-    ],
-    "description": "Q&A#1\nAndrzej Krzywda o tym czy zespoły dev mogą rozmawiać z klientem czy potrzebują pośrednika (PMa) i kiedy jest on urzędnikiem :)\n- 20-30 min. pytam Andrzeja\n- plus dyskusja otwarta :) (moderowana)"
-  },
-  {
-    "title": "🇵🇱DevRadioPL: Organizacja kodu w projektach ML",
-    "url": "https://www.joinclubhouse.com/event/M175vWD2",
-    "date": "2021-03-10T18:00:00+01:00",
-    "speakers": [
-      "Michał Łusiak",
-      "Krzysztof Sopyła",
-      "Konrad Lyda",
-      "Sylwana Kaźmierska"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/330581912_1a8920c1-1aa3-4ee0-aa0e-c826766a7895_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3884443_9917b5d1-2f2f-4da8-afc9-e806a859e90c_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/1626138165_f14e8ec3-b951-4801-a423-38a47c02b275_thumbnail_250x250"
-    ],
-    "description": "Jak organizujesz kod w swoich projektach Machine Learning? Co działa, co nie działa. Które praktyki warto zaczerpnąć z świata developerskiego a które z naukowego?"
   },
   {
     "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
@@ -504,6 +486,20 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3757191_224a5515-c0bf-401b-9c4f-641acb758598_thumbnail_250x250"
     ],
     "description": "Luźna rozmowa na temat wybierania nudnych, sprawdzonych technologii, a rozwoju, kreatywność czy cv driven development.\n\nPS. Chcesz zadać pytanie, skomentować? Podnieś po prostu rękę w trakcie rozmowy"
+  },
+  {
+    "title": "Dev Radio PL: Q&A#1 Kto gada z klientem-pośrednik czy Ty?",
+    "url": "https://www.joinclubhouse.com/event/mW15llnD",
+    "date": "2021-03-11T18:00:00+01:00",
+    "speakers": [
+      "Grzegorz Jarosz",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Q&A#1\nAndrzej Krzywda o tym czy zespoły dev mogą rozmawiać z klientem czy potrzebują pośrednika (PMa) i kiedy jest on urzędnikiem :)\n- 20-30 min. pytam Andrzeja\n- plus dyskusja otwarta :) moderowana"
   },
   {
     "title": "🇵🇱 Dev Radio PL - czy Java umiera? Java a inne języki ",
