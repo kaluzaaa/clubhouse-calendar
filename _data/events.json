@@ -227,11 +227,13 @@
     "date": "2021-03-16T19:30:00+01:00",
     "speakers": [
       "Mirabella Burek",
-      "Grzegorz Jarosz"
+      "Grzegorz Jarosz",
+      "Beata Lipska"
     ],
     "avatars": [
       "https://clubhouseprod.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250"
+      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
     ],
     "description": "Od włoskiej firemki poprzez pracę z dużymi firmami zagranicznymi. Jak angielski pomógł Grzegorzowi rozwinąć karierę i znaleźć swoje powołanie w szerzeniu wiedzy o Agile."
   },
