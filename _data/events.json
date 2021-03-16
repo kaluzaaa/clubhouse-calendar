@@ -1,19 +1,5 @@
 [
   {
-    "title": "🇵🇱dev-radio.pl Za późno, by wejść do branży IT? Kiedy? - dev-radio.pl",
-    "url": "https://www.joinclubhouse.com/event/xnKRVq01",
-    "date": "2021-03-15T20:00:00+01:00",
-    "speakers": [
-      "Beata Lipska",
-      "Anna Garbacz"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/4190870_e014a953-ec1a-4fd8-8ffc-2d30d0b7269d_thumbnail_250x250"
-    ],
-    "description": "Czy realistycznie można ocenić kiedy jest za późno, by wejść do branży IT? Jak to ocenić z perspektywy osoby rekrutującej, ale też rekrutowanej. Czy przebranżowieniu musi towarzyszyć \"krok do tyłu\"? 🎙"
-  },
-  {
     "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/xl48DdAX",
     "date": "2021-03-08T13:00:00+01:00",
@@ -496,6 +482,20 @@
       "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
     ],
     "description": "Porównanie blockchainów btc eth ada hlf, od strony technologicznej"
+  },
+  {
+    "title": "🇵🇱dev-radio.pl Za późno, by wejść do branży IT? Kiedy? - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/xnKRVq01",
+    "date": "2021-03-15T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska",
+      "Anna Garbacz"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/4190870_e014a953-ec1a-4fd8-8ffc-2d30d0b7269d_thumbnail_250x250"
+    ],
+    "description": "Czy realistycznie można ocenić kiedy jest za późno, by wejść do branży IT? Jak to ocenić z perspektywy osoby rekrutującej, ale też rekrutowanej. Czy przebranżowieniu musi towarzyszyć \"krok do tyłu\"? 🎙"
   },
   {
     "title": "🇵🇱 IT Tech Talk – Nudne (sprawdzone) technologie",
