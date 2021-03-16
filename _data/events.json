@@ -604,6 +604,18 @@
     "description": "Porozmawiamy o tym jak pisać abstrakty na konferencje programistyczne. Michał Ł z perspektywy prezentera, a Michał Ś z perspektywy organizatora."
   },
   {
+    "title": "🇵🇱 dev-radio.pl Blockchain 101 - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/mJX9GBQQ",
+    "date": "2021-03-19T16:00:00+01:00",
+    "speakers": [
+      "Adam Smolarek"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
+    "description": ""
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Wydajność aplikacji",
     "url": "https://www.joinclubhouse.com/event/Pv6nB9E7",
     "date": "2021-02-10T20:00:00+01:00",
