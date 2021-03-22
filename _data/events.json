@@ -430,10 +430,14 @@
     "url": "https://www.joinclubhouse.com/event/PAJqyVA7",
     "date": "2021-03-24T19:30:00+01:00",
     "speakers": [
-      "Mirabella Burek"
+      "Mirabella Burek",
+      "Daniel Dec",
+      "Beata Lipska"
     ],
     "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250"
+      "https://clubhouseprod.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
     ],
     "description": "Rozmawiamy z Danielem Decem o jego karierze w projektach międzynarodowych i o tym czego nauczył się o byciu konsultantem w różnych kulturach nie tylko organizacyjnych."
   },
