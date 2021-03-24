@@ -312,6 +312,20 @@
     "description": "Zapraszamy na cykl audycji poświęconych architekturze oraz roli architekta. W pierwszym odcinku porozmawiamy o różnych stylach budowy systemów opartych o chmurę."
   },
   {
+    "title": "DevRadioPL: „Przybysz z daleka\"-konsultant w Twoim zespole",
+    "url": "https://www.joinclubhouse.com/event/PYBgVbQz",
+    "date": "2021-03-25T20:00:00+01:00",
+    "speakers": [
+      "Grzegorz Jarosz",
+      "Daniel Dec"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250"
+    ],
+    "description": "Q&A#3: Daniel Dec o roli konsultanta IT - jak konsultant jest odbierany przez zespoły, problemy i korzyści z tego, oraz co zrobić żeby było ok :)\n- 20-30 min. pytam Daniela\n- plus dyskusja otwarta :)"
+  },
+  {
     "title": "🇵🇱Dev Radio PL - Serverless od podstaw. Jak, gdzie, kiedy?",
     "url": "https://www.joinclubhouse.com/event/M4kWKr1a",
     "date": "2021-02-22T13:00:00+01:00",
