@@ -1,21 +1,5 @@
 [
   {
-    "title": "Keep Up! Nowinki IT z Vived #5",
-    "url": "https://www.joinclubhouse.com/event/PYL2XbGn",
-    "date": "2021-03-30T08:15:00+02:00",
-    "speakers": [
-      "Artur Skowronski",
-      "Tomek Borowicz",
-      "Dominik Janik"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/210703873_2ddffa70-a25a-4738-a1c8-436efdf1fce8_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/954139064_7918df26-d56b-47e1-80fd-5ff37c37857a_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/1067639010_d886ad4a-53fd-403c-ba07-126ada1bd732_thumbnail_250x250"
-    ],
-    "description": "Kolejna edycja naszego przeglądu tego co w trawie piszczy do ☕️. Ze względu na specjalizacje jesteśmy nakierowani na JVM i JS, ale dyskutujemy też o bardziej ogólnych, branżowych trendach."
-  },
-  {
     "title": "🇵🇱DevRadioPL: Fuckupy w projektach Machine Learning",
     "url": "https://www.joinclubhouse.com/event/PQbbQeWQ",
     "date": "2021-03-31T18:00:00+02:00",
@@ -282,6 +266,22 @@
       "https://clubhouseprod.s3.amazonaws.com:443/4536992_4a7979a3-3cbd-4ee5-9e44-7b1197cace90_thumbnail_250x250"
     ],
     "description": "Wiele rzeczy w naszych projektach da się często robić „lepiej”. Pierwszy krok do zmiany to świadomość „strat”. Przyjrzyjmy się więc stratom naszych technicznych projektów IT w ujęciu Lean (mudas)"
+  },
+  {
+    "title": "Keep Up! Nowinki IT z Vived #5",
+    "url": "https://www.joinclubhouse.com/event/PYL2XbGn",
+    "date": "2021-03-30T08:15:00+02:00",
+    "speakers": [
+      "Artur Skowronski",
+      "Tomek Borowicz",
+      "Dominik Janik"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/210703873_2ddffa70-a25a-4738-a1c8-436efdf1fce8_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/954139064_7918df26-d56b-47e1-80fd-5ff37c37857a_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1067639010_d886ad4a-53fd-403c-ba07-126ada1bd732_thumbnail_250x250"
+    ],
+    "description": "Kolejna edycja naszego przeglądu tego co w trawie piszczy do ☕️. Ze względu na specjalizacje jesteśmy nakierowani na JVM i JS, ale dyskutujemy też o bardziej ogólnych, branżowych trendach."
   },
   {
     "title": "🇵🇱 Dev Radio PL: Jak szybko prototypować aplikacje?",
