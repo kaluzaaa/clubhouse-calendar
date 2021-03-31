@@ -1,23 +1,5 @@
 [
   {
-    "title": "🇵🇱DevRadioPL: Fuckupy w projektach Machine Learning",
-    "url": "https://www.joinclubhouse.com/event/PQbbQeWQ",
-    "date": "2021-03-31T18:00:00+02:00",
-    "speakers": [
-      "Michał Łusiak",
-      "Krzysztof Sopyła",
-      "Konrad Lyda",
-      "Sylwana Kaźmierska"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/330581912_1a8920c1-1aa3-4ee0-aa0e-c826766a7895_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/3884443_9917b5d1-2f2f-4da8-afc9-e806a859e90c_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/1626138165_f14e8ec3-b951-4801-a423-38a47c02b275_thumbnail_250x250"
-    ],
-    "description": ""
-  },
-  {
     "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/xl48DdAX",
     "date": "2021-03-08T13:00:00+01:00",
@@ -222,6 +204,24 @@
       "https://clubhouseprod.s3.amazonaws.com:443/4920824_cbd37d4f-208f-44da-8b4a-30b015022bfe_thumbnail_250x250"
     ],
     "description": "Czy wiesz jakie są najdroższe zasoby w chmurze? Dziś rozmowa na pograniczu biznesu, kultury organizacyjnej i technologii. #cloud"
+  },
+  {
+    "title": "🇵🇱DevRadioPL: Fuckupy w projektach Machine Learning",
+    "url": "https://www.joinclubhouse.com/event/PQbbQeWQ",
+    "date": "2021-03-31T18:00:00+02:00",
+    "speakers": [
+      "Michał Łusiak",
+      "Krzysztof Sopyła",
+      "Konrad Lyda",
+      "Sylwana Kaźmierska"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/3689641_149fbd79-d94e-4e38-b298-c4493b744233_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/330581912_1a8920c1-1aa3-4ee0-aa0e-c826766a7895_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/3884443_9917b5d1-2f2f-4da8-afc9-e806a859e90c_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1626138165_f14e8ec3-b951-4801-a423-38a47c02b275_thumbnail_250x250"
+    ],
+    "description": ""
   },
   {
     "title": "Dev Radio PL: Co może zaskoczyć w projektach o dużej skali? - dev-radio.pl",
