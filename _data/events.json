@@ -1,21 +1,5 @@
 [
   {
-    "title": "Keep Up! Nowinki IT z Vived #5",
-    "url": "https://www.joinclubhouse.com/event/xlynq12q",
-    "date": "2021-04-14T15:00:00+02:00",
-    "speakers": [
-      "Tomek Borowicz",
-      "Dominik Janik",
-      "Piotr Janczyk"
-    ],
-    "avatars": [
-      "https://clubhouseprod.s3.amazonaws.com:443/954139064_7918df26-d56b-47e1-80fd-5ff37c37857a_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/1067639010_d886ad4a-53fd-403c-ba07-126ada1bd732_thumbnail_250x250",
-      "https://clubhouseprod.s3.amazonaws.com:443/839322954_8680fca5-e665-4dde-866d-8cef05845a13_thumbnail_250x250"
-    ],
-    "description": "Rozmawiamy o nowościach w świecie IT (głównie o JS i JVM, ale też trochę o ogólnobranżowych trendach)🗞 30-45 minut - wszystkie opinie mile widziane 🎤"
-  },
-  {
     "title": "🇵🇱Dev Radio PL: Ty napisałeś Ty wspierasz - dev-radio.pl",
     "url": "https://www.joinclubhouse.com/event/xl48DdAX",
     "date": "2021-03-08T13:00:00+01:00",
@@ -664,6 +648,22 @@
       "https://clubhouseprod.s3.amazonaws.com:443/1012130239_1372dea8-b7b7-45a1-8a07-c034b85f23f0_thumbnail_250x250"
     ],
     "description": "Let’s talk recruitment! How to make sure the recruiter loves you and offers you the perfect position adequate to your skills and personality? Tips and tricks!"
+  },
+  {
+    "title": "Keep Up! Nowinki IT z Vived #5",
+    "url": "https://www.joinclubhouse.com/event/xlynq12q",
+    "date": "2021-04-14T15:00:00+02:00",
+    "speakers": [
+      "Tomek Borowicz",
+      "Dominik Janik",
+      "Piotr Janczyk"
+    ],
+    "avatars": [
+      "https://clubhouseprod.s3.amazonaws.com:443/954139064_7918df26-d56b-47e1-80fd-5ff37c37857a_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/1067639010_d886ad4a-53fd-403c-ba07-126ada1bd732_thumbnail_250x250",
+      "https://clubhouseprod.s3.amazonaws.com:443/839322954_8680fca5-e665-4dde-866d-8cef05845a13_thumbnail_250x250"
+    ],
+    "description": "Rozmawiamy o nowościach w świecie IT (głównie o JS i JVM, ale też trochę o ogólnobranżowych trendach)🗞 30-45 minut - wszystkie opinie mile widziane 🎤"
   },
   {
     "title": "🇵🇱 IT Tech Talk – Nudne (sprawdzone) technologie",
