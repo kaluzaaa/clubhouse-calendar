@@ -92,6 +92,26 @@
     "description": "pogadamy sobie o tym jak biznes przekłada się na kodzik, konteksty z DDD, read modele oraz procesy. dla chętnych - szybka terapia Twojego projektu jakie moduły wprowadzić"
   },
   {
+    "title": "🇵🇱Dev Radio PL: Mentoring w IT- Czy warto? Kim jest mentor?",
+    "url": "https://www.joinclubhouse.com/event/MzjVEkQ3",
+    "date": "2021-02-22T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska",
+      "Natalia Cholewa",
+      "Arkadiusz Wasilonek",
+      "Ma Stęga (she/her)",
+      "Pawel Tomczuk"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1501380967_abe6ca1a-3aab-47a5-9069-1289f7c0e596_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3474869_0db6143d-05d9-40cf-a327-5f1bec1460bf_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1989064389_8e37d581-8172-4649-a7f7-7154de156ec5_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3592180_f969f4ec-84f2-437a-ad76-f01774ced45c_thumbnail_250x250"
+    ],
+    "description": "Czy potrzebujesz mentora? Czym jest Mentoring? Jakie są cechy dobrego mentora? Jaka powinna być osoba korzystająca z mentoringu? Jaką wartość wnosi mentor? Kiedy warto? Kiedy nie warto? Słyszymy się 🎙"
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Przyszłość frontendu-PWA",
     "url": "https://www.joinclubhouse.com/event/MOBnD4Zy",
     "date": "2021-02-16T19:00:00+01:00",
@@ -312,6 +332,20 @@
       "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
     ],
     "description": "Jak oczarować rekrutera, rozkochać go w sobie i przekonać do siebie? Jak pytać, aby dowiedzieć się o kulturze organizacji? Rozmawiamy z  Anastasiia Bondarenko, IT rekruter z wieloletnim stażem."
+  },
+  {
+    "title": "Dev-Radio.pl - How to: Small talk with clients 😬 - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/ma50048K",
+    "date": "2021-03-26T14:15:00+01:00",
+    "speakers": [
+      "Mirabella Burek",
+      "Beata Lipska"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
+    "description": "Let’s practice some good English! Topic: how to small talk with clients. Tips, tricks and some good vocabulary!"
   },
   {
     "title": "🇵🇱DEV Radio PL: Cloud native, agnostic, multi-cloud",
@@ -562,6 +596,18 @@
     "description": ""
   },
   {
+    "title": "🇵🇱Dev Radio PL - Rekrutacja w branży IT",
+    "url": "https://www.joinclubhouse.com/event/MwkDw8DB",
+    "date": "2021-02-08T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
+    "description": "Będziemy tym razem rozmawiać o tych stresujących momentach szukania w pracy IT i może uda mi się wraz z Waszą pomocą rozwiać trochę mitów na temat rozmów kwalifikacyjnych do branży IT. Zapraszam 😏🤓💻"
+  },
+  {
     "title": "🇵🇱 DevRadio PL: Blockchain 101",
     "url": "https://www.joinclubhouse.com/event/m2jBJdnA",
     "date": "2021-03-05T16:00:00+01:00",
@@ -772,5 +818,23 @@
       "https://production-clubhouse-avatars.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250"
     ],
     "description": "Będzie to wstęp do wydajności systemów. Dlaczego i kiedy jest ważna. Gdzie jest wydajność? Jak ją mierzyć? Przejdziemy przez warstwy, powiem o podejściu i narzędziach."
+  },
+  {
+    "title": "🇵🇱Dev Radio PL: Nauka React w 2021",
+    "url": "https://www.joinclubhouse.com/event/Md8eQVWo",
+    "date": "2021-02-24T20:30:00+01:00",
+    "speakers": [
+      "Michał Jawulski",
+      "Aleksander Patschek",
+      "Artur Chmaro",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/5799868_1c58c9e2-e5f2-4d18-a78c-471fcd43d5c0_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3692470_80c20e17-6e08-48ba-b1b5-1262bdfba6c3_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3857117_66dcc942-e29a-46dd-b209-250510ae1d10_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "React jest coraz bardziej popularny. Jak wyglada nauka reacta w 2021? Jakie biblioteki warto znać, a które można odpuścić? Czy muszę znać Reduxa? Co dodać do IDE? Gdzie szukać materiałów do nauki?"
   }
 ]
