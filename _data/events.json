@@ -348,6 +348,20 @@
     "description": "Let’s practice some good English! Topic: how to small talk with clients. Tips, tricks and some good vocabulary!"
   },
   {
+    "title": "🇵🇱DEV Radio PL: Cloud native, agnostic, multi-cloud",
+    "url": "https://www.joinclubhouse.com/event/xlOJvj84",
+    "date": "2021-02-24T16:30:00+01:00",
+    "speakers": [
+      "Piotr Tomaszewski",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3962772_afcaa6be-9673-4ce4-97d1-a09ee20c1d6b_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
+    ],
+    "description": "Zapraszamy na cykl audycji poświęconych architekturze oraz roli architekta. W pierwszym odcinku porozmawiamy o różnych stylach budowy systemów opartych o chmurę."
+  },
+  {
     "title": "DevRadioPL: „Przybysz z daleka\"-konsultant w Twoim zespole",
     "url": "https://www.joinclubhouse.com/event/PYBgVbQz",
     "date": "2021-03-25T20:00:00+01:00",
@@ -631,7 +645,7 @@
     "avatars": [
       "https://production-clubhouse-avatars.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250",
       "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
-      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1012130239_7cd52dcd-61d2-41df-8271-ad0ed7800073_thumbnail_250x250"
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1012130239_a4210150-3b54-47e8-b87a-e87b5e0d02ee_thumbnail_250x250"
     ],
     "description": "Let’s talk recruitment! How to make sure the recruiter loves you and offers you the perfect position adequate to your skills and personality? Tips and tricks!"
   },
