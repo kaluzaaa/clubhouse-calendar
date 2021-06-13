@@ -348,20 +348,6 @@
     "description": "Let’s practice some good English! Topic: how to small talk with clients. Tips, tricks and some good vocabulary!"
   },
   {
-    "title": "🇵🇱DEV Radio PL: Cloud native, agnostic, multi-cloud",
-    "url": "https://www.joinclubhouse.com/event/xlOJvj84",
-    "date": "2021-02-24T16:30:00+01:00",
-    "speakers": [
-      "Piotr Tomaszewski",
-      "Łukasz Kałużny"
-    ],
-    "avatars": [
-      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3962772_afcaa6be-9673-4ce4-97d1-a09ee20c1d6b_thumbnail_250x250",
-      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
-    ],
-    "description": "Zapraszamy na cykl audycji poświęconych architekturze oraz roli architekta. W pierwszym odcinku porozmawiamy o różnych stylach budowy systemów opartych o chmurę."
-  },
-  {
     "title": "DevRadioPL: „Przybysz z daleka\"-konsultant w Twoim zespole",
     "url": "https://www.joinclubhouse.com/event/PYBgVbQz",
     "date": "2021-03-25T20:00:00+01:00",
