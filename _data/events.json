@@ -418,6 +418,22 @@
     "description": "O testach brzmi trochę za szeroko, może zawęzimy tylko do tematu coverage, zobaczymy 😎"
   },
   {
+    "title": "🇵🇱dev-radio.pl 🙉🙊🙈Sztuka dawania/otrzymywania feedbacku",
+    "url": "https://www.joinclubhouse.com/event/xB0VbRQ6",
+    "date": "2021-03-01T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska",
+      "Jan Rutkowski",
+      "Arkadiusz Wasilonek"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3893263_c99cdaf3-356f-4ec5-85cb-b8f402da00e9_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3474869_0db6143d-05d9-40cf-a327-5f1bec1460bf_thumbnail_250x250"
+    ],
+    "description": "Jak co tydzień- rozmawiamy o IT i nie tylko. Feedback może wpłynąć na całą naszą karierę, ale też życie- zwłaszcza to wewnętrzne. Jak to jest/było u was? Zapraszam do dyskusji 💪🏻🎙"
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Kiedy Junior staje się Midem?",
     "url": "https://www.joinclubhouse.com/event/m3NvloYl",
     "date": "2021-03-03T11:00:00+01:00",
@@ -762,6 +778,22 @@
       "https://production-clubhouse-avatars.s3.amazonaws.com:443/330581912_1a8920c1-1aa3-4ee0-aa0e-c826766a7895_thumbnail_250x250"
     ],
     "description": "Czy Machine Learning to zupełnie nowa profesja czy po prostu nowy zestaw umiejętności dla programistów?"
+  },
+  {
+    "title": "🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje",
+    "url": "https://www.joinclubhouse.com/event/MR33pNW6",
+    "date": "2021-02-17T20:00:00+01:00",
+    "speakers": [
+      "Michał Łusiak",
+      "Michał Śliwoń",
+      "Andrzej Krzywda"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3689641_767abc5c-1b23-40f9-84fe-b019c93abd4b_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/2074979188_45ba1d82-2d28-45a2-b363-f119e335dd1e_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250"
+    ],
+    "description": "Porozmawiamy o tym jak pisać abstrakty na konferencje programistyczne. Michał Ł z perspektywy prezentera, a Michał Ś z perspektywy organizatora."
   },
   {
     "title": "🇵🇱 dev-radio.pl Blockchain 101",
