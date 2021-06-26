@@ -476,6 +476,18 @@
     "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
   },
   {
+    "title": "🇵🇱 DevRadio PL Blockchain 101",
+    "url": "https://www.joinclubhouse.com/event/PY6nDl6G",
+    "date": "2021-03-12T16:35:00+01:00",
+    "speakers": [
+      "Adam Smolarek"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3975377_f12ae0c8-f35c-4d51-8638-877142eee4d6_thumbnail_250x250"
+    ],
+    "description": "Podstawy blockchaina + napisz swój własny NFT"
+  },
+  {
     "title": "🇵🇱 dev-radio.pl Blockchain - po co to komu?",
     "url": "https://www.joinclubhouse.com/event/Mwo4aDVk",
     "date": "2021-04-02T15:30:00+02:00",
