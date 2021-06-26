@@ -178,6 +178,22 @@
     "description": ""
   },
   {
+    "title": "🇵🇱 Dev-Radio.pl Pull Request - hit czy kit?",
+    "url": "https://www.joinclubhouse.com/event/MRn1GQG6",
+    "date": "2021-02-24T14:00:00+01:00",
+    "speakers": [
+      "Ola Kunysz",
+      "Andrzej Krzywda",
+      "Michał Jawulski"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/4957738_53117856-4fe3-4aaa-b13c-4f09aaaac68e_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/5799868_1c58c9e2-e5f2-4d18-a78c-471fcd43d5c0_thumbnail_250x250"
+    ],
+    "description": "Czy pull requesty są dobrym sposobem na wymianę wiedzy w zespole, czy raczej zbędną biurokracją? A może #tozależy?"
+  },
+  {
     "title": "🇵🇱Dev Radio PL - Najdroższe zasoby w chmurze",
     "url": "https://www.joinclubhouse.com/event/M6GAQ0LB",
     "date": "2021-03-01T13:00:00+01:00",
@@ -206,6 +222,20 @@
       "https://production-clubhouse-avatars.s3.amazonaws.com:443/1626138165_f14e8ec3-b951-4801-a423-38a47c02b275_thumbnail_250x250"
     ],
     "description": ""
+  },
+  {
+    "title": "Dev Radio PL: Co może zaskoczyć w projektach o dużej skali? - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/m38L6Nn1",
+    "date": "2021-03-08T16:00:00+01:00",
+    "speakers": [
+      "Piotr Tomaszewski",
+      "Łukasz Kałużny"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3962772_afcaa6be-9673-4ce4-97d1-a09ee20c1d6b_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1953238_df85b617-54dd-40ac-900f-5c1e19b42d4a_thumbnail_250x250"
+    ],
+    "description": "Kto powiedział, że rozmiar nie ma znaczenia? W kolejnym odcinku cyklu poświęconego szeroko pojętej architekturze IT porozmawiamy o wyzwaniach jakie pojawiają się w złożonych projektach o dużej skali."
   },
   {
     "title": "🇵🇱Dev-radio.pl - 1 język 10x więcej możliwości - dev-radio.pl",
