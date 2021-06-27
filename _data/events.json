@@ -516,6 +516,22 @@
     "description": "Kolejna edycja naszego przeglądu tego co w trawie piszczy do ☕️. Ze względu na specjalizacje jesteśmy nakierowani na JVM i JS, ale dyskutujemy też o bardziej ogólnych, branżowych trendach."
   },
   {
+    "title": "🇵🇱Dev-Radio.pl - Tylko nie Small talk - dev-radio.pl",
+    "url": "https://www.joinclubhouse.com/event/PAJqyVA7",
+    "date": "2021-03-24T19:30:00+01:00",
+    "speakers": [
+      "Mirabella Burek",
+      "Daniel Dec",
+      "Beata Lipska"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3719167_b5c033d7-74fa-481a-bc0a-72a476647656_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3681071_36d8580a-b3eb-48e6-a266-b0768eeae3ca_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250"
+    ],
+    "description": "Rozmawiamy z Danielem Decem o jego karierze w projektach międzynarodowych i o tym czego nauczył się o byciu konsultantem w różnych kulturach nie tylko organizacyjnych."
+  },
+  {
     "title": "DevRadioPL:Q&A Internety to mi z ręki jedzą-od kodu do sław",
     "url": "https://www.joinclubhouse.com/event/xkQXAYq1",
     "date": "2021-03-18T19:30:00+01:00",
@@ -632,6 +648,22 @@
       "https://production-clubhouse-avatars.s3.amazonaws.com:443/1012130239_e0590f47-38e0-4bb4-bfb7-9d8802b7133b_thumbnail_250x250"
     ],
     "description": "Let’s talk recruitment! How to make sure the recruiter loves you and offers you the perfect position adequate to your skills and personality? Tips and tricks!"
+  },
+  {
+    "title": "Keep Up! Nowinki IT z Vived #5",
+    "url": "https://www.joinclubhouse.com/event/xlynq12q",
+    "date": "2021-04-14T15:00:00+02:00",
+    "speakers": [
+      "Tomek Borowicz",
+      "Dominik Janik",
+      "Piotr Janczyk"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/954139064_7918df26-d56b-47e1-80fd-5ff37c37857a_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/1067639010_d886ad4a-53fd-403c-ba07-126ada1bd732_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/839322954_8680fca5-e665-4dde-866d-8cef05845a13_thumbnail_250x250"
+    ],
+    "description": "Rozmawiamy o nowościach w świecie IT (głównie o JS i JVM, ale też trochę o ogólnobranżowych trendach)🗞 30-45 minut - wszystkie opinie mile widziane 🎤"
   },
   {
     "title": "🇵🇱 IT Tech Talk – Nudne (sprawdzone) technologie",
