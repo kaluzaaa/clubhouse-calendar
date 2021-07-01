@@ -140,6 +140,24 @@
     "description": "Luźna rozmowa: nasze (dobre i złe) doświadczenia z “Agile”; po co wdrażać np. Scruma i komu ma on służyć; patologie, sukcesy, alternatywy."
   },
   {
+    "title": "🇵🇱 Dev Radio PL: Techniczna część rozmów kwalifikacyjnych",
+    "url": "https://www.joinclubhouse.com/event/mapl9QVM",
+    "date": "2021-02-15T20:00:00+01:00",
+    "speakers": [
+      "Beata Lipska",
+      "Andrzej Krzywda",
+      "Patryk Kubiela",
+      "Aleksander Patschek"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3711939_cb03a2e8-92c6-4955-a4b1-c3604429b017_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/4076431_5780bfb6-7cbc-428c-8b17-d6897a7190ba_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3692470_80c20e17-6e08-48ba-b1b5-1262bdfba6c3_thumbnail_250x250"
+    ],
+    "description": "Kontynuujemy temat sprzed tygodnia, ale teraz będzie część tylko technicznych zadań podczas rozmów kwalifikacyjnych, więc dużo 💻 i fajnych ludzi. Zapraszam serdecznie! 🤓 Słyszymy się 🎙"
+  },
+  {
     "title": "🇵🇱Dev Radio PL: Jaka technologia mobilna w 2021?",
     "url": "https://www.joinclubhouse.com/event/xe6p1NQd",
     "date": "2021-02-25T22:30:00+01:00",
