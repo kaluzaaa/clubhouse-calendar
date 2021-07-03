@@ -722,6 +722,22 @@
     "description": "Open space for IT people to practice their English language skills. This week we will tackle strengths and personal talents!"
   },
   {
+    "title": "🇵🇱 Dev Radio PL : Event Storming, Narzędzia i Praktyki",
+    "url": "https://www.joinclubhouse.com/event/M6zEeAQn",
+    "date": "2021-02-26T20:00:00+01:00",
+    "speakers": [
+      "Andrzej Śliwa",
+      "Andrzej Krzywda",
+      "Paweł Pacana"
+    ],
+    "avatars": [
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3690398_5fe1ae6e-d642-46e6-8f90-78de8e9d4851_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/3541542_70b4245d-1ced-4aa4-a93e-bdf83ac01830_thumbnail_250x250",
+      "https://production-clubhouse-avatars.s3.amazonaws.com:443/4488016_f7b205c4-b59b-4212-a1a6-602bf01f7e6e_thumbnail_250x250"
+    ],
+    "description": ""
+  },
+  {
     "title": "🇵🇱 Dev Radio PL: Programisto, pokaż swój side-project!",
     "url": "https://www.joinclubhouse.com/event/Prn8NDqG",
     "date": "2021-02-22T15:00:00+01:00",
