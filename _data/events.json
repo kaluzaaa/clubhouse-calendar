@@ -464,18 +464,6 @@
     "description": "Wszystko czego nie wiesz a boisz się zapytać White board: https://chaindev.pl/wb"
   },
   {
-    "title": "🇵🇱 dev-radio.pl 🛡 AppSec Monday LIVE",
-    "url": "https://www.joinclubhouse.com/event/PrD7g7Yl",
-    "date": "2021-03-01T18:30:00+01:00",
-    "speakers": [
-      "Andrzej Dyjak"
-    ],
-    "avatars": [
-      "https://production-clubhouse-avatars.s3.amazonaws.com:443/776291859_3bf4d859-779f-4c94-9829-0c804d9ca7c6_thumbnail_250x250"
-    ],
-    "description": "Przegląd nowinek z działki bezpieczeństwa aplikacji, bo z security lepiej być na bieżąco. #dev #qa #ops"
-  },
-  {
     "title": "🇵🇱 DevRadio PL Blockchain 101",
     "url": "https://www.joinclubhouse.com/event/PY6nDl6G",
     "date": "2021-03-12T16:35:00+01:00",
