@@ -1,0 +1,7 @@
+beautifulsoup4
+PyGithub
+requests
+python-dateutil
+validators
+airtable-python-wrapper
+pytz

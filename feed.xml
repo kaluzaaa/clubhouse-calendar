@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Kalendarz spotkań 🇵🇱Dev Radio PL i 🇵🇱 IT Tech Talk na 👋Clubhouse</title>
+        <description>Kalendarz spotkań 🇵🇱Dev Radio PL i 🇵🇱 IT Tech Talk na 👋Clubhouse</description>
+        <link>https://dev-radio.pl/</link>
+        <atom:link href="https://dev-radio.pl/feed.xml" rel="self" type="application/rss+xml" />
+        
+        
+    </channel>
+</rss>
